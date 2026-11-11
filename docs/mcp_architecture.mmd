@@ -1,0 +1,36 @@
+flowchart LR
+    user(["Recruiter<br/>Streamlit / terminal chat"])
+    subgraph AGENT["LangGraph agent  (matching_agent.py)"]
+        direction TB
+        parse_jd["parse_jd"]
+        search["search_resumes<br/>(RAG index, local)"]
+        deep["deep_analysis"]
+        report["generate_report"]
+        answer["answer_question<br/>(Claude picks tools)"]
+        toolnode["tools (ToolNode)"]
+    end
+    client["MCPClient<br/>src/mcp_client/client.py<br/>JSON-RPC 2.0"]
+    subgraph FS["filesystem_mcp_server.py"]
+        direction TB
+        fs_tools["Tools<br/>read_file · list_files · get_file_info<br/>search_in_file · write_file<br/>watch_directory · batch_process · server_status"]
+        fs_res["Resources<br/>config://server · fs://folders<br/>fs://files/{folder}/{filename} · fs://info/... · fs://search/..."]
+        disk[("data/resumes<br/>data/job_descriptions<br/>reports")]
+    end
+    subgraph DB["candidate_db_mcp_server.py  (bonus)"]
+        direction TB
+        db_tools["Tools<br/>save_screening · get_screening_history<br/>get_candidate_history · add_candidate_note"]
+        db_res["Resources<br/>db://screenings · db://candidates/{id}"]
+        sqlite[("SQLite<br/>data/candidates.db")]
+    end
+    user <--> AGENT
+    parse_jd -- "read_file (JD)" --> client
+    deep -- "batch_process (10 resumes)" --> client
+    report -- "write_file + save_screening" --> client
+    answer --> toolnode
+    toolnode -- "read_file · search_in_file · batch_process<br/>watch_directory (check_new_resumes)<br/>add_candidate_note · get_*_history" --> client
+    client -- "stdio" --> FS
+    client -- "stdio" --> DB
+    fs_tools --> disk
+    fs_res --> disk
+    db_tools --> sqlite
+    db_res --> sqlite

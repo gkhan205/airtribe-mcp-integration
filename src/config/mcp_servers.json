@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "python",
+      "args": ["-m", "src.mcp_servers.filesystem_mcp_server"]
+    },
+    "candidate_db": {
+      "command": "python",
+      "args": ["-m", "src.mcp_servers.candidate_db_mcp_server"]
+    }
+  }
+}

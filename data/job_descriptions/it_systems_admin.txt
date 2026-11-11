@@ -1,0 +1,17 @@
+IT Systems Administrator
+
+We are looking for an IT Systems Administrator to own our on-premise and cloud infrastructure and lead the help desk for a 400-person organization.
+
+Responsibilities
+- Administer Windows Server, Active Directory, DNS/DHCP and group policies
+- Maintain VMware virtualization hosts and Office 365 / Azure tenants
+- Manage LAN/WAN, VPN, firewalls and network security monitoring
+- Lead technical support and troubleshooting for hardware and software issues
+- Document procedures and drive ITIL-aligned incident management
+
+Requirements
+- Must have: 3+ years of IT experience
+- Must have: Networking (LAN/WAN, TCP/IP)
+- Hands-on Technical Support and Active Directory administration
+- Bachelor's degree in Information Technology, Computer Science or related field
+- Nice to have: Linux, ITIL certification, SharePoint, scripting in Python

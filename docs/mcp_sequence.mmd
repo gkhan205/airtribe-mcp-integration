@@ -1,0 +1,40 @@
+sequenceDiagram
+    autonumber
+    actor R as Recruiter
+    participant A as LangGraph agent
+    participant C as MCPClient
+    participant F as filesystem server
+    participant D as candidate_db server
+    participant L as Claude
+
+    Note over A,D: Start-up (build_graph)
+    A->>C: get_mcp_client()
+    C->>F: initialize / tools/list
+    C->>D: initialize / tools/list
+    C->>F: tools/call watch_directory(timeout 0) — first snapshot
+
+    Note over R,L: Screening run
+    R->>A: "it_systems_admin"
+    A->>C: parse_jd
+    C->>F: tools/call read_file(job_descriptions/it_systems_admin.txt)
+    A->>L: extract_requirements
+    A->>A: search_resumes + rank_candidates (local RAG index)
+    A->>C: deep_analysis
+    C->>F: tools/call batch_process(10 resume paths)
+    F-->>C: 10 texts in one response
+    A->>L: 10 analyses in parallel, then final decisions
+    A->>C: generate_report
+    C->>F: tools/call write_file(reports/...md)
+    C->>D: tools/call save_screening(...)
+    A-->>R: summary table (graph pauses: interrupt)
+
+    Note over R,L: Question turn
+    R->>A: "Check for new resumes"
+    A->>L: answer_question (MCP tools + agent tools bound)
+    L-->>A: tool call check_new_resumes
+    A->>C: watch_directory(resumes, 30 s)
+    C->>F: tools/call watch_directory
+    F-->>C: progress notifications ... new_files
+    C->>F: tools/call batch_process(new files)
+    A->>L: analyse new resumes
+    A-->>R: answer

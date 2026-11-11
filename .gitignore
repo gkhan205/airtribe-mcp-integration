@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+reports/
+data/outputs/
+.DS_Store
+.claude
+data/candidates.db

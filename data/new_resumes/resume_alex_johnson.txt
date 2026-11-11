@@ -1,0 +1,17 @@
+Alex Johnson
+Java Developer
+alex.johnson@example.com | Chicago, IL
+
+SUMMARY
+Java developer with 5 years of experience building enterprise services with Spring Boot.
+
+SKILLS
+Java, Spring Boot, Hibernate, Kafka, MySQL, Kubernetes
+
+EXPERIENCE
+Java Developer - Lakeshore Financial (2019 - Present)
+- Developed Spring Boot payment services
+- Added Kafka event streaming between banking systems
+
+EDUCATION
+B.S. Software Engineering, Illinois Institute of Technology, 2019

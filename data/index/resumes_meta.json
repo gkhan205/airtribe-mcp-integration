@@ -1,0 +1,5633 @@
+{
+  "ahmed_clark": {
+    "name": "Ahmed Clark",
+    "headline": "CERTIFIED PERSONAL TRAINER",
+    "skills": [
+      "Microsoft Office",
+      "Manufacturing",
+      "Sales",
+      "Business Development",
+      "Customer Service",
+      "Labor Law",
+      "Leadership",
+      "Communication",
+      "CPR/BLS",
+      "Student Assessment",
+      "Recruiting",
+      "Employee Relations",
+      "Benefits Administration",
+      "Performance Management",
+      "Training & Development",
+      "Patient Care",
+      "Scheduling",
+      "Nursing",
+      "Teaching"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Manufacturing",
+      "Sales",
+      "Business Development",
+      "Customer Service",
+      "Labor Law",
+      "Leadership",
+      "Communication",
+      "CPR/BLS",
+      "Student Assessment"
+    ],
+    "skill_years": {
+      "Business Development": 4
+    },
+    "experience_years": 4,
+    "education": {
+      "level": 1,
+      "degree": "Diploma/Certificate",
+      "field": null,
+      "line": "High School Diploma"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "ahmed_clark",
+    "resume_path": "data/resumes/ahmed_clark.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ahmed_clark.pdf",
+      "name": "ahmed_clark.pdf",
+      "ext": ".pdf",
+      "size_bytes": 32671,
+      "modified": "2026-10-27T09:39:05"
+    },
+    "n_chars": 6416,
+    "n_chunks": 9
+  },
+  "ahmed_diaz": {
+    "name": "Ahmed Diaz",
+    "headline": "MECHANICAL DESIGNER",
+    "skills": [
+      "Linux",
+      "Microsoft Office",
+      "AutoCAD",
+      "SolidWorks",
+      "Lean Six Sigma",
+      "Manufacturing",
+      "Project Management",
+      "Sales",
+      "Inventory Management",
+      "Leadership",
+      "Communication",
+      "UI/UX Design",
+      "3D Modeling",
+      "Teaching",
+      "Process Improvement"
+    ],
+    "skills_primary": [
+      "Linux",
+      "Microsoft Office",
+      "AutoCAD",
+      "SolidWorks",
+      "Lean Six Sigma",
+      "Manufacturing",
+      "Project Management",
+      "Sales",
+      "Inventory Management",
+      "Leadership",
+      "Communication",
+      "UI/UX Design",
+      "3D Modeling",
+      "Teaching"
+    ],
+    "skill_years": {},
+    "experience_years": 28.8,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": "Computer Drafting and Design",
+      "line": "Associates of Applied Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "ahmed_diaz",
+    "resume_path": "data/resumes/ahmed_diaz.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ahmed_diaz.pdf",
+      "name": "ahmed_diaz.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23842,
+      "modified": "2026-10-27T09:39:00"
+    },
+    "n_chars": 5164,
+    "n_chunks": 8
+  },
+  "aisha_turner": {
+    "name": "Aisha Turner",
+    "headline": "NC AIR GUARD HEALTH SERVICES MANAGER",
+    "skills": [
+      "Technical Support",
+      "Accounting",
+      "Financial Reporting",
+      "Customer Service",
+      "Recruiting",
+      "Leadership",
+      "EMR/EHR",
+      "Auditing",
+      "Compliance",
+      "Patient Care"
+    ],
+    "skills_primary": [
+      "Technical Support",
+      "Accounting",
+      "Financial Reporting",
+      "Customer Service",
+      "Recruiting",
+      "Leadership",
+      "EMR/EHR"
+    ],
+    "skill_years": {},
+    "experience_years": 4.9,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": null,
+      "line": "Bachelors of Science and Business"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "aisha_turner",
+    "resume_path": "data/resumes/aisha_turner.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/aisha_turner.pdf",
+      "name": "aisha_turner.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23634,
+      "modified": "2026-10-27T09:39:02"
+    },
+    "n_chars": 5841,
+    "n_chunks": 10
+  },
+  "amara_khan": {
+    "name": "Amara Khan",
+    "headline": "DIRECTOR OF ENGINEERING",
+    "skills": [
+      "Technical Support",
+      "Quality Assurance",
+      "Agile",
+      "Process Improvement",
+      "Budgeting",
+      "Banking",
+      "Sales",
+      "Account Management",
+      "Customer Service",
+      "Retail",
+      "Marketing",
+      "Inventory Management",
+      "Leadership",
+      "Communication",
+      "Scheduling",
+      "C#",
+      "Data Analysis",
+      "Cloud",
+      "Manufacturing",
+      "Negotiation"
+    ],
+    "skills_primary": [
+      "Technical Support",
+      "Quality Assurance",
+      "Agile",
+      "Process Improvement",
+      "Budgeting",
+      "Banking",
+      "Sales",
+      "Account Management",
+      "Customer Service",
+      "Retail",
+      "Marketing",
+      "Inventory Management",
+      "Leadership",
+      "Communication",
+      "Scheduling"
+    ],
+    "skill_years": {},
+    "experience_years": 18.6,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Management of Technology",
+      "line": "Master of Science"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "amara_khan",
+    "resume_path": "data/resumes/amara_khan.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/amara_khan.pdf",
+      "name": "amara_khan.pdf",
+      "ext": ".pdf",
+      "size_bytes": 47267,
+      "modified": "2026-10-27T09:38:20"
+    },
+    "n_chars": 18869,
+    "n_chunks": 21
+  },
+  "amara_nasser": {
+    "name": "Amara Nasser",
+    "headline": "SALES",
+    "skills": [
+      "Excel",
+      "Accounting",
+      "Sales",
+      "Marketing",
+      "Training & Development"
+    ],
+    "skills_primary": [
+      "Excel",
+      "Accounting",
+      "Sales",
+      "Marketing"
+    ],
+    "skill_years": {
+      "Accounting": 2,
+      "Training & Development": 2
+    },
+    "experience_years": 34.6,
+    "education": {
+      "level": 0,
+      "degree": null,
+      "field": null,
+      "line": null
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "amara_nasser",
+    "resume_path": "data/resumes/amara_nasser.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/amara_nasser.pdf",
+      "name": "amara_nasser.pdf",
+      "ext": ".pdf",
+      "size_bytes": 16097,
+      "modified": "2026-10-27T09:38:49"
+    },
+    "n_chars": 1758,
+    "n_chunks": 5
+  },
+  "amara_rahman": {
+    "name": "Amara Rahman",
+    "headline": "DIRECTOR, INFORMATION TECHNOLOGY",
+    "skills": [
+      "Data Analysis",
+      "Linux",
+      "Networking",
+      "Excel",
+      "Budgeting",
+      "Customer Service",
+      "Benefits Administration",
+      "Training & Development",
+      "Leadership",
+      "Auditing"
+    ],
+    "skills_primary": [
+      "Data Analysis",
+      "Linux",
+      "Networking",
+      "Excel",
+      "Budgeting",
+      "Customer Service",
+      "Benefits Administration",
+      "Training & Development",
+      "Leadership"
+    ],
+    "skill_years": {},
+    "experience_years": 30,
+    "education": {
+      "level": 5,
+      "degree": "PhD",
+      "field": "Coastal Oceanography",
+      "line": "Ph.D"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "amara_rahman",
+    "resume_path": "data/resumes/amara_rahman.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/amara_rahman.pdf",
+      "name": "amara_rahman.pdf",
+      "ext": ".pdf",
+      "size_bytes": 29499,
+      "modified": "2026-10-27T09:38:12"
+    },
+    "n_chars": 9488,
+    "n_chunks": 14
+  },
+  "ana_ali": {
+    "name": "Ana Ali",
+    "headline": "MANAGER OF FINANCE",
+    "skills": [
+      "Networking",
+      "Technical Support",
+      "Microsoft Office",
+      "Accounts Payable",
+      "Payroll",
+      "Banking",
+      "Sales",
+      "Customer Service",
+      "Retail",
+      "Inventory Management",
+      "Scheduling",
+      "Accounts Receivable",
+      "Compliance"
+    ],
+    "skills_primary": [
+      "Networking",
+      "Technical Support",
+      "Microsoft Office",
+      "Accounts Payable",
+      "Payroll",
+      "Banking",
+      "Sales",
+      "Customer Service",
+      "Retail",
+      "Inventory Management",
+      "Scheduling"
+    ],
+    "skill_years": {},
+    "experience_years": 8.1,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Organizational Management",
+      "line": "Bachelor of Science"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "ana_ali",
+    "resume_path": "data/resumes/ana_ali.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ana_ali.pdf",
+      "name": "ana_ali.pdf",
+      "ext": ".pdf",
+      "size_bytes": 26639,
+      "modified": "2026-10-27T09:38:39"
+    },
+    "n_chars": 8905,
+    "n_chunks": 11
+  },
+  "ana_clark": {
+    "name": "Ana Clark",
+    "headline": "APPAREL TECHNICAL DESIGNER",
+    "skills": [
+      "Excel",
+      "Fashion Design",
+      "Quality Assurance",
+      "Quality Control",
+      "Manufacturing",
+      "Leadership",
+      "Communication",
+      "Teaching",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Excel",
+      "Fashion Design"
+    ],
+    "skill_years": {},
+    "experience_years": 9.3,
+    "education": {
+      "level": 0,
+      "degree": null,
+      "field": null,
+      "line": null
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "ana_clark",
+    "resume_path": "data/resumes/ana_clark.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ana_clark.pdf",
+      "name": "ana_clark.pdf",
+      "ext": ".pdf",
+      "size_bytes": 19069,
+      "modified": "2026-10-27T09:39:00"
+    },
+    "n_chars": 4072,
+    "n_chunks": 8
+  },
+  "ana_diaz": {
+    "name": "Ana Diaz",
+    "headline": "SALES ASSOCIATE",
+    "skills": [
+      "Sales",
+      "Customer Service",
+      "Employee Relations",
+      "Communication",
+      "Banking",
+      "Retail",
+      "Inventory Management",
+      "CPR/BLS",
+      "Teaching"
+    ],
+    "skills_primary": [
+      "Sales",
+      "Customer Service",
+      "Employee Relations",
+      "Communication"
+    ],
+    "skill_years": {},
+    "experience_years": 3.6,
+    "education": {
+      "level": 1,
+      "degree": "Diploma/Certificate",
+      "field": null,
+      "line": "High School Diploma"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "ana_diaz",
+    "resume_path": "data/resumes/ana_diaz.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ana_diaz.pdf",
+      "name": "ana_diaz.pdf",
+      "ext": ".pdf",
+      "size_bytes": 18490,
+      "modified": "2026-10-27T09:38:47"
+    },
+    "n_chars": 3044,
+    "n_chunks": 6
+  },
+  "andre_novak": {
+    "name": "Andre Novak",
+    "headline": "HR BENEFITS/LEAVE COORDINATOR",
+    "skills": [
+      "Payroll",
+      "Benefits Administration",
+      "HRIS",
+      "Reconciliation",
+      "Auditing",
+      "Recruiting",
+      "Onboarding",
+      "Labor Law",
+      "Leadership",
+      "Patient Care"
+    ],
+    "skills_primary": [
+      "Payroll",
+      "Benefits Administration",
+      "HRIS"
+    ],
+    "skill_years": {},
+    "experience_years": 27,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Organizational Management and Leadership",
+      "line": "Bachelor of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "andre_novak",
+    "resume_path": "data/resumes/andre_novak.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/andre_novak.pdf",
+      "name": "andre_novak.pdf",
+      "ext": ".pdf",
+      "size_bytes": 21641,
+      "modified": "2026-10-27T09:38:26"
+    },
+    "n_chars": 4838,
+    "n_chunks": 8
+  },
+  "arjun_fischer": {
+    "name": "Arjun Fischer",
+    "headline": "ENGINEERING MANAGER",
+    "skills": [
+      "Excel",
+      "Lean Six Sigma",
+      "Manufacturing",
+      "Project Management",
+      "Budgeting",
+      "Business Development",
+      "Marketing",
+      "Recruiting",
+      "Leadership",
+      "Communication",
+      "Quality Assurance",
+      "Quality Control",
+      "Process Improvement",
+      "Auditing",
+      "Compliance",
+      "Sales",
+      "Customer Service",
+      "Inventory Management",
+      "Employee Relations",
+      "Training & Development",
+      "Scheduling"
+    ],
+    "skills_primary": [
+      "Excel",
+      "Lean Six Sigma",
+      "Manufacturing",
+      "Project Management",
+      "Budgeting",
+      "Business Development",
+      "Marketing",
+      "Recruiting",
+      "Leadership",
+      "Communication"
+    ],
+    "skill_years": {
+      "Leadership": 3
+    },
+    "experience_years": 20,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Management information system",
+      "line": "B.S"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "arjun_fischer",
+    "resume_path": "data/resumes/arjun_fischer.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/arjun_fischer.pdf",
+      "name": "arjun_fischer.pdf",
+      "ext": ".pdf",
+      "size_bytes": 28929,
+      "modified": "2026-10-27T09:38:17"
+    },
+    "n_chars": 11452,
+    "n_chunks": 14
+  },
+  "chen_martin": {
+    "name": "Chen Martin",
+    "headline": "SALES ASSOCIATE",
+    "skills": [
+      "Customer Service",
+      "Communication",
+      "Banking",
+      "Sales"
+    ],
+    "skills_primary": [
+      "Customer Service",
+      "Communication"
+    ],
+    "skill_years": {},
+    "experience_years": 2.8,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": null,
+      "line": "Associate of Science"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills"
+    ],
+    "resume_id": "chen_martin",
+    "resume_path": "data/resumes/chen_martin.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/chen_martin.pdf",
+      "name": "chen_martin.pdf",
+      "ext": ".pdf",
+      "size_bytes": 24688,
+      "modified": "2026-10-27T09:38:49"
+    },
+    "n_chars": 2781,
+    "n_chunks": 7
+  },
+  "chloe_smith": {
+    "name": "Chloe Smith",
+    "headline": "ENGINEERING OFFICER",
+    "skills": [
+      "C++",
+      "Linux",
+      "Manufacturing",
+      "Inventory Management"
+    ],
+    "skills_primary": [
+      "C++",
+      "Linux"
+    ],
+    "skill_years": {},
+    "experience_years": 2.4,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Electrical Engineering",
+      "line": "Master of Science"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "projects",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "chloe_smith",
+    "resume_path": "data/resumes/chloe_smith.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/chloe_smith.pdf",
+      "name": "chloe_smith.pdf",
+      "ext": ".pdf",
+      "size_bytes": 35013,
+      "modified": "2026-10-27T09:38:16"
+    },
+    "n_chars": 4631,
+    "n_chunks": 8
+  },
+  "daniel_novak": {
+    "name": "Daniel Novak",
+    "headline": "GRAPHIC DESIGNER",
+    "skills": [
+      "Graphic Design",
+      "Sales",
+      "Fashion Design"
+    ],
+    "skills_primary": [
+      "Graphic Design"
+    ],
+    "skill_years": {},
+    "experience_years": 3.2,
+    "education": {
+      "level": 0,
+      "degree": null,
+      "field": null,
+      "line": null
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills"
+    ],
+    "resume_id": "daniel_novak",
+    "resume_path": "data/resumes/daniel_novak.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/daniel_novak.pdf",
+      "name": "daniel_novak.pdf",
+      "ext": ".pdf",
+      "size_bytes": 14394,
+      "modified": "2026-10-27T09:38:54"
+    },
+    "n_chars": 834,
+    "n_chunks": 3
+  },
+  "daniel_saleh": {
+    "name": "Daniel Saleh",
+    "headline": "SALES MANAGER",
+    "skills": [
+      "Sales",
+      "Negotiation",
+      "Marketing",
+      "Manufacturing",
+      "Accounting",
+      "Budgeting",
+      "Inventory Management",
+      "Recruiting"
+    ],
+    "skills_primary": [
+      "Sales",
+      "Negotiation",
+      "Marketing"
+    ],
+    "skill_years": {},
+    "experience_years": 8.8,
+    "education": {
+      "level": 1,
+      "degree": "Diploma/Certificate",
+      "field": "General",
+      "line": "High School Diploma"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "daniel_saleh",
+    "resume_path": "data/resumes/daniel_saleh.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/daniel_saleh.pdf",
+      "name": "daniel_saleh.pdf",
+      "ext": ".pdf",
+      "size_bytes": 21636,
+      "modified": "2026-10-27T09:38:48"
+    },
+    "n_chars": 5251,
+    "n_chunks": 9
+  },
+  "diego_cohen": {
+    "name": "Diego Cohen",
+    "headline": "INFORMATION TECHNOLOGY INTERN (TEST AUTOMATION ENGINEER)",
+    "skills": [
+      "Java",
+      "JavaScript",
+      "React",
+      "SQL",
+      "HTML/CSS",
+      "Linux",
+      "Cloud",
+      "Agile",
+      "Oracle",
+      "Communication",
+      "UI/UX Design",
+      "Quality Assurance",
+      "Project Management",
+      "Accounts Receivable",
+      "Sales",
+      "Benefits Administration",
+      "Training & Development"
+    ],
+    "skills_primary": [
+      "Java",
+      "JavaScript",
+      "React",
+      "SQL",
+      "HTML/CSS",
+      "Linux",
+      "Cloud",
+      "Agile",
+      "Oracle",
+      "Communication",
+      "UI/UX Design"
+    ],
+    "skill_years": {},
+    "experience_years": 4.8,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Computer Science",
+      "line": "Master of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "diego_cohen",
+    "resume_path": "data/resumes/diego_cohen.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/diego_cohen.pdf",
+      "name": "diego_cohen.pdf",
+      "ext": ".pdf",
+      "size_bytes": 29300,
+      "modified": "2026-10-27T09:38:14"
+    },
+    "n_chars": 9197,
+    "n_chunks": 12
+  },
+  "diego_popescu": {
+    "name": "Diego Popescu",
+    "headline": "HR ASSISTANT INTERN",
+    "skills": [
+      "Excel",
+      "Customer Service",
+      "Employee Relations",
+      "Communication",
+      "Retail",
+      "Leadership",
+      "Fashion Design"
+    ],
+    "skills_primary": [
+      "Excel",
+      "Customer Service",
+      "Employee Relations",
+      "Communication"
+    ],
+    "skill_years": {},
+    "experience_years": 14.2,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Art Organizational Leadership",
+      "line": "Bachelors of Art"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "diego_popescu",
+    "resume_path": "data/resumes/diego_popescu.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/diego_popescu.pdf",
+      "name": "diego_popescu.pdf",
+      "ext": ".pdf",
+      "size_bytes": 17343,
+      "modified": "2026-10-27T09:38:32"
+    },
+    "n_chars": 1878,
+    "n_chunks": 5
+  },
+  "elena_okafor": {
+    "name": "Elena Okafor",
+    "headline": "Z",
+    "skills": [
+      "Technical Support",
+      "Auditing",
+      "Sales",
+      "Marketing"
+    ],
+    "skills_primary": [
+      "Technical Support",
+      "Auditing",
+      "Sales",
+      "Marketing"
+    ],
+    "skill_years": {},
+    "experience_years": 6.7,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Business Management Management Information Systems",
+      "line": "B.B.A"
+    },
+    "sections": [
+      "education",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "elena_okafor",
+    "resume_path": "data/resumes/elena_okafor.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/elena_okafor.pdf",
+      "name": "elena_okafor.pdf",
+      "ext": ".pdf",
+      "size_bytes": 17742,
+      "modified": "2026-10-27T09:38:53"
+    },
+    "n_chars": 2462,
+    "n_chunks": 4
+  },
+  "elena_reed": {
+    "name": "Elena Reed",
+    "headline": "INFORMATION TECHNOLOGY MANAGER",
+    "skills": [
+      "SQL",
+      "Windows Server",
+      "Active Directory",
+      "Networking",
+      "Cybersecurity",
+      "Technical Support",
+      "Budgeting",
+      "QuickBooks",
+      "Sales",
+      "Inventory Management",
+      "Leadership"
+    ],
+    "skills_primary": [
+      "SQL",
+      "Windows Server",
+      "Active Directory",
+      "Networking",
+      "Cybersecurity",
+      "Technical Support",
+      "Budgeting",
+      "QuickBooks",
+      "Sales",
+      "Inventory Management"
+    ],
+    "skill_years": {},
+    "experience_years": 12.0,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Computer System Engineer",
+      "line": "BS"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills"
+    ],
+    "resume_id": "elena_reed",
+    "resume_path": "data/resumes/elena_reed.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/elena_reed.pdf",
+      "name": "elena_reed.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22133,
+      "modified": "2026-10-27T09:38:15"
+    },
+    "n_chars": 4781,
+    "n_chunks": 7
+  },
+  "emma_aziz": {
+    "name": "Emma Aziz",
+    "headline": "INSTRUCTIONAL DESIGNER",
+    "skills": [
+      "Teaching",
+      "Accounting",
+      "Accounts Payable",
+      "Accounts Receivable",
+      "Reconciliation",
+      "Budgeting",
+      "Tax",
+      "Payroll",
+      "Banking",
+      "Sales",
+      "Leadership",
+      "Patient Care",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Teaching"
+    ],
+    "skill_years": {},
+    "experience_years": 21.5,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": null,
+      "line": "Master of Education"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "emma_aziz",
+    "resume_path": "data/resumes/emma_aziz.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/emma_aziz.pdf",
+      "name": "emma_aziz.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23590,
+      "modified": "2026-10-27T09:38:54"
+    },
+    "n_chars": 6550,
+    "n_chunks": 10
+  },
+  "ethan_evans": {
+    "name": "Ethan Evans",
+    "headline": "NX (UNIGRAPHICS) DESIGNER",
+    "skills": [
+      "Excel",
+      "Microsoft Access",
+      "AutoCAD",
+      "Networking",
+      "Manufacturing",
+      "Retail",
+      "UI/UX Design"
+    ],
+    "skills_primary": [
+      "Excel",
+      "Microsoft Access",
+      "AutoCAD"
+    ],
+    "skill_years": {},
+    "experience_years": 15.5,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": null,
+      "line": "Associate of Applied Science , Computer Networking Technology - Microsoft Option"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills"
+    ],
+    "resume_id": "ethan_evans",
+    "resume_path": "data/resumes/ethan_evans.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ethan_evans.pdf",
+      "name": "ethan_evans.pdf",
+      "ext": ".pdf",
+      "size_bytes": 21149,
+      "modified": "2026-10-27T09:38:56"
+    },
+    "n_chars": 3284,
+    "n_chunks": 7
+  },
+  "ethan_moore": {
+    "name": "Ethan Moore",
+    "headline": "Summary",
+    "skills": [
+      "SAP",
+      "Microsoft Office",
+      "Excel",
+      "Payroll",
+      "Banking",
+      "Recruiting",
+      "Benefits Administration",
+      "Training & Development",
+      "Leadership",
+      "Scheduling",
+      "Quality Control",
+      "Manufacturing",
+      "Reconciliation",
+      "Sales",
+      "Marketing",
+      "Employee Relations",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "SAP",
+      "Microsoft Office",
+      "Excel",
+      "Payroll",
+      "Banking",
+      "Recruiting",
+      "Benefits Administration",
+      "Training & Development",
+      "Leadership",
+      "Scheduling"
+    ],
+    "skill_years": {},
+    "experience_years": 5.6,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Human Resource Management",
+      "line": "Master of Science"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "ethan_moore",
+    "resume_path": "data/resumes/ethan_moore.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ethan_moore.pdf",
+      "name": "ethan_moore.pdf",
+      "ext": ".pdf",
+      "size_bytes": 25647,
+      "modified": "2026-10-27T09:38:31"
+    },
+    "n_chars": 7665,
+    "n_chunks": 13
+  },
+  "fatima_bianchi": {
+    "name": "Fatima Bianchi",
+    "headline": "ACCOUNTANT",
+    "skills": [
+      "Data Analysis",
+      "Excel",
+      "Accounting",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Auditing",
+      "Tax",
+      "Payroll",
+      "QuickBooks",
+      "Sales",
+      "Networking",
+      "Microsoft Office",
+      "Accounts Payable",
+      "Accounts Receivable",
+      "Reconciliation",
+      "Banking",
+      "Compliance",
+      "Customer Service",
+      "Retail",
+      "Inventory Management",
+      "Teaching"
+    ],
+    "skills_primary": [
+      "Data Analysis",
+      "Excel",
+      "Accounting",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Auditing",
+      "Tax",
+      "Payroll",
+      "QuickBooks",
+      "Sales"
+    ],
+    "skill_years": {},
+    "experience_years": 12.8,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Taxation",
+      "line": "Master of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills"
+    ],
+    "resume_id": "fatima_bianchi",
+    "resume_path": "data/resumes/fatima_bianchi.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/fatima_bianchi.pdf",
+      "name": "fatima_bianchi.pdf",
+      "ext": ".pdf",
+      "size_bytes": 21247,
+      "modified": "2026-10-27T09:38:42"
+    },
+    "n_chars": 5614,
+    "n_chunks": 7
+  },
+  "fatima_moreau": {
+    "name": "Fatima Moreau",
+    "headline": "MORTGAGE BANKING DEFAULT OPERATIONS SPECIALIST II",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Technical Support",
+      "Quality Assurance",
+      "Excel",
+      "Quality Control",
+      "Sales",
+      "Customer Service",
+      "Inventory Management",
+      "Adobe Photoshop",
+      "Adobe InDesign",
+      "Cloud",
+      "Manufacturing",
+      "Banking",
+      "Training & Development",
+      "Leadership",
+      "Adobe Creative Suite",
+      "Classroom Management",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Linux",
+      "Networking",
+      "Technical Support",
+      "Quality Assurance",
+      "Excel",
+      "Quality Control",
+      "Sales",
+      "Customer Service",
+      "Inventory Management",
+      "Adobe Photoshop",
+      "Adobe InDesign"
+    ],
+    "skill_years": {},
+    "experience_years": 9.8,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": "Computer Networking Excel",
+      "line": "Special Skill/ Certifications Associate Degree Computer Networking Excel, Linux, Ms Word, and Right Fax Adobe Creative c"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "fatima_moreau",
+    "resume_path": "data/resumes/fatima_moreau.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/fatima_moreau.pdf",
+      "name": "fatima_moreau.pdf",
+      "ext": ".pdf",
+      "size_bytes": 24076,
+      "modified": "2026-10-27T09:39:17"
+    },
+    "n_chars": 5735,
+    "n_chunks": 9
+  },
+  "fatima_patel": {
+    "name": "Fatima Patel",
+    "headline": "CLAIMS SERVICE SPECIALIST",
+    "skills": [
+      "Data Analysis",
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Accounts Receivable",
+      "Customer Service",
+      "Benefits Administration",
+      "Leadership",
+      "Communication",
+      "Medical Terminology",
+      "Medical Billing",
+      "Scheduling",
+      "Auditing",
+      "Compliance",
+      "Patient Care",
+      "Nursing"
+    ],
+    "skills_primary": [
+      "Data Analysis",
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Accounts Receivable",
+      "Customer Service",
+      "Benefits Administration",
+      "Leadership",
+      "Communication",
+      "Medical Terminology",
+      "Medical Billing",
+      "Scheduling"
+    ],
+    "skill_years": {
+      "Medical Billing": 3
+    },
+    "experience_years": 3,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": null,
+      "line": "Associate of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "fatima_patel",
+    "resume_path": "data/resumes/fatima_patel.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/fatima_patel.pdf",
+      "name": "fatima_patel.pdf",
+      "ext": ".pdf",
+      "size_bytes": 24758,
+      "modified": "2026-10-27T09:39:06"
+    },
+    "n_chars": 5772,
+    "n_chunks": 8
+  },
+  "fatima_turner": {
+    "name": "Fatima Turner",
+    "headline": "ADMIN OPERATING ROOM ADMINISTRATIVE COORDINATOR",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Payroll",
+      "Retail",
+      "HRIS",
+      "Leadership",
+      "Scheduling",
+      "Patient Care",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Payroll",
+      "Retail",
+      "HRIS",
+      "Leadership",
+      "Scheduling"
+    ],
+    "skill_years": {},
+    "experience_years": 14.5,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": null,
+      "line": "MASTER OF SCIENCE DEGREE"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "fatima_turner",
+    "resume_path": "data/resumes/fatima_turner.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/fatima_turner.pdf",
+      "name": "fatima_turner.pdf",
+      "ext": ".pdf",
+      "size_bytes": 29465,
+      "modified": "2026-10-27T09:39:03"
+    },
+    "n_chars": 4882,
+    "n_chunks": 9
+  },
+  "felix_adler": {
+    "name": "Felix Adler",
+    "headline": "FINANCE CONTROLLER",
+    "skills": [
+      "Quality Assurance",
+      "Quality Control",
+      "Project Management",
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Tax",
+      "Payroll",
+      "Banking",
+      "Compliance",
+      "Business Development",
+      "Account Management",
+      "Leadership",
+      "Communication",
+      "Accounts Receivable",
+      "Auditing"
+    ],
+    "skills_primary": [
+      "Quality Assurance",
+      "Quality Control",
+      "Project Management",
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Tax",
+      "Payroll",
+      "Banking",
+      "Compliance",
+      "Business Development",
+      "Account Management",
+      "Leadership",
+      "Communication"
+    ],
+    "skill_years": {},
+    "experience_years": 25.8,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Finance",
+      "line": "MBA"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "felix_adler",
+    "resume_path": "data/resumes/felix_adler.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/felix_adler.pdf",
+      "name": "felix_adler.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23308,
+      "modified": "2026-10-27T09:38:33"
+    },
+    "n_chars": 5696,
+    "n_chunks": 8
+  },
+  "felix_dubois": {
+    "name": "Felix Dubois",
+    "headline": "ELECTRICAL CAD DESIGNER",
+    "skills": [
+      "SharePoint",
+      "SAP",
+      "Microsoft Office",
+      "Excel",
+      "AutoCAD",
+      "Lean Six Sigma",
+      "Project Management",
+      "Technical Support",
+      "Manufacturing",
+      "Budgeting",
+      "Sales",
+      "Customer Service",
+      "Teaching"
+    ],
+    "skills_primary": [
+      "SharePoint",
+      "SAP",
+      "Microsoft Office",
+      "Excel",
+      "AutoCAD",
+      "Lean Six Sigma",
+      "Project Management"
+    ],
+    "skill_years": {},
+    "experience_years": 18.4,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Program",
+      "line": "Dual Major of Spanish and International Relations in the Bachelor"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "felix_dubois",
+    "resume_path": "data/resumes/felix_dubois.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/felix_dubois.pdf",
+      "name": "felix_dubois.pdf",
+      "ext": ".pdf",
+      "size_bytes": 20697,
+      "modified": "2026-10-27T09:38:58"
+    },
+    "n_chars": 3656,
+    "n_chunks": 7
+  },
+  "felix_khan": {
+    "name": "Felix Khan",
+    "headline": "TEACHER",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Leadership",
+      "Communication",
+      "Budgeting",
+      "Sales",
+      "Customer Service",
+      "Negotiation",
+      "Retail",
+      "Marketing",
+      "CPR/BLS",
+      "Teaching",
+      "Lesson Planning",
+      "Classroom Management"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Leadership",
+      "Communication"
+    ],
+    "skill_years": {},
+    "experience_years": 12.6,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": null,
+      "line": "Masters in Science degree status:"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "felix_khan",
+    "resume_path": "data/resumes/felix_khan.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/felix_khan.pdf",
+      "name": "felix_khan.pdf",
+      "ext": ".pdf",
+      "size_bytes": 31838,
+      "modified": "2026-10-27T09:39:11"
+    },
+    "n_chars": 5968,
+    "n_chunks": 10
+  },
+  "felix_kim": {
+    "name": "Felix Kim",
+    "headline": "TEACHER",
+    "skills": [
+      "Leadership",
+      "Lesson Planning",
+      "Patient Care",
+      "Scheduling",
+      "Teaching"
+    ],
+    "skills_primary": [
+      "Leadership",
+      "Lesson Planning"
+    ],
+    "skill_years": {},
+    "experience_years": 8.0,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Forensic Psychology Legal Systems",
+      "line": "Master of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills"
+    ],
+    "resume_id": "felix_kim",
+    "resume_path": "data/resumes/felix_kim.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/felix_kim.pdf",
+      "name": "felix_kim.pdf",
+      "ext": ".pdf",
+      "size_bytes": 17340,
+      "modified": "2026-10-27T09:39:10"
+    },
+    "n_chars": 2724,
+    "n_chunks": 4
+  },
+  "felix_okafor": {
+    "name": "Felix Okafor",
+    "headline": "ENGINEERING SUPERVISOR",
+    "skills": [
+      "Technical Support",
+      "Excel",
+      "Project Management",
+      "Customer Service",
+      "Training & Development",
+      "Leadership",
+      "Communication"
+    ],
+    "skills_primary": [
+      "Technical Support",
+      "Excel",
+      "Project Management",
+      "Customer Service",
+      "Training & Development",
+      "Leadership",
+      "Communication"
+    ],
+    "skill_years": {},
+    "experience_years": 12.9,
+    "education": {
+      "level": 1,
+      "degree": "Diploma/Certificate",
+      "field": null,
+      "line": "High School Diploma"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "felix_okafor",
+    "resume_path": "data/resumes/felix_okafor.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/felix_okafor.pdf",
+      "name": "felix_okafor.pdf",
+      "ext": ".pdf",
+      "size_bytes": 17789,
+      "modified": "2026-10-27T09:38:18"
+    },
+    "n_chars": 3161,
+    "n_chunks": 6
+  },
+  "grace_diaz": {
+    "name": "Grace Diaz",
+    "headline": "SALES",
+    "skills": [
+      "Technical Support",
+      "Excel",
+      "Sales",
+      "Customer Service",
+      "Retail",
+      "Labor Law",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Technical Support",
+      "Excel",
+      "Sales",
+      "Customer Service",
+      "Retail"
+    ],
+    "skill_years": {},
+    "experience_years": 0.0,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": null,
+      "line": "Bachelor of Science Degree"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "grace_diaz",
+    "resume_path": "data/resumes/grace_diaz.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/grace_diaz.pdf",
+      "name": "grace_diaz.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22097,
+      "modified": "2026-10-27T09:38:48"
+    },
+    "n_chars": 4978,
+    "n_chunks": 7
+  },
+  "hannah_sato": {
+    "name": "Hannah Sato",
+    "headline": "FINANCIAL ANALYST",
+    "skills": [
+      "Excel",
+      "Accounting",
+      "Financial Reporting",
+      "Budgeting",
+      "Sales",
+      "Marketing",
+      "Leadership",
+      "Data Analysis",
+      "Manufacturing",
+      "Banking"
+    ],
+    "skills_primary": [
+      "Excel",
+      "Accounting",
+      "Financial Reporting",
+      "Budgeting",
+      "Sales",
+      "Marketing",
+      "Leadership"
+    ],
+    "skill_years": {
+      "Manufacturing": 8
+    },
+    "experience_years": 1.8,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Economics and Psychology",
+      "line": "Bachelor of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills"
+    ],
+    "resume_id": "hannah_sato",
+    "resume_path": "data/resumes/hannah_sato.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/hannah_sato.pdf",
+      "name": "hannah_sato.pdf",
+      "ext": ".pdf",
+      "size_bytes": 20916,
+      "modified": "2026-10-27T09:39:17"
+    },
+    "n_chars": 5343,
+    "n_chunks": 10
+  },
+  "hannah_shah": {
+    "name": "Hannah Shah",
+    "headline": "FINANCE MANAGER",
+    "skills": [
+      "Sales",
+      "Customer Service",
+      "Inventory Management",
+      "Benefits Administration",
+      "Leadership",
+      "Scheduling",
+      "Manufacturing",
+      "Banking"
+    ],
+    "skills_primary": [
+      "Sales",
+      "Customer Service",
+      "Inventory Management",
+      "Benefits Administration",
+      "Leadership",
+      "Scheduling"
+    ],
+    "skill_years": {},
+    "experience_years": 2.0,
+    "education": {
+      "level": 0,
+      "degree": null,
+      "field": null,
+      "line": null
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "hannah_shah",
+    "resume_path": "data/resumes/hannah_shah.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/hannah_shah.pdf",
+      "name": "hannah_shah.pdf",
+      "ext": ".pdf",
+      "size_bytes": 25899,
+      "modified": "2026-10-27T09:38:34"
+    },
+    "n_chars": 6941,
+    "n_chunks": 11
+  },
+  "hannah_young": {
+    "name": "Hannah Young",
+    "headline": "ELECTRICAL ENGINEERING LAB TECHNICIAN",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Technical Support",
+      "Quality Assurance",
+      "Microsoft Office",
+      "Quality Control"
+    ],
+    "skills_primary": [
+      "Linux",
+      "Networking",
+      "Technical Support",
+      "Quality Assurance",
+      "Microsoft Office",
+      "Quality Control"
+    ],
+    "skill_years": {
+      "Networking": 10,
+      "Technical Support": 10
+    },
+    "experience_years": 19.4,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": "Electronics Engineering Technology",
+      "line": "Associate Degree"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "hannah_young",
+    "resume_path": "data/resumes/hannah_young.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/hannah_young.pdf",
+      "name": "hannah_young.pdf",
+      "ext": ".pdf",
+      "size_bytes": 20747,
+      "modified": "2026-10-27T09:38:21"
+    },
+    "n_chars": 5001,
+    "n_chunks": 8
+  },
+  "ines_brown": {
+    "name": "Ines Brown",
+    "headline": "INFORMATION TECHNOLOGY MANAGER",
+    "skills": [
+      "SQL",
+      "Linux",
+      "Active Directory",
+      "Networking",
+      "Cybersecurity",
+      "Technical Support",
+      "Quality Assurance",
+      "Microsoft Office",
+      "Quality Control",
+      "Project Management",
+      "Budgeting",
+      "QuickBooks",
+      "Leadership",
+      "Scheduling",
+      "Virtualization",
+      "Manufacturing",
+      "Compliance",
+      "Recruiting",
+      "Performance Management"
+    ],
+    "skills_primary": [
+      "SQL",
+      "Linux",
+      "Active Directory",
+      "Networking",
+      "Cybersecurity",
+      "Technical Support",
+      "Quality Assurance",
+      "Microsoft Office",
+      "Quality Control",
+      "Project Management",
+      "Budgeting",
+      "QuickBooks",
+      "Leadership",
+      "Scheduling"
+    ],
+    "skill_years": {},
+    "experience_years": 4.6,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Information System",
+      "line": "Bachelor of Science"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "ines_brown",
+    "resume_path": "data/resumes/ines_brown.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ines_brown.pdf",
+      "name": "ines_brown.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22336,
+      "modified": "2026-10-27T09:38:10"
+    },
+    "n_chars": 5580,
+    "n_chunks": 9
+  },
+  "isabel_ali": {
+    "name": "Isabel Ali",
+    "headline": "BILLING ACCOUNTANT",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Banking",
+      "Sales",
+      "Account Management",
+      "Customer Service",
+      "Marketing",
+      "Training & Development",
+      "Budgeting",
+      "Auditing",
+      "Inventory Management"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Banking",
+      "Sales",
+      "Account Management",
+      "Customer Service",
+      "Marketing",
+      "Training & Development"
+    ],
+    "skill_years": {
+      "Customer Service": 11
+    },
+    "experience_years": 11.2,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Business Administration",
+      "line": "Bachelor degree"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "isabel_ali",
+    "resume_path": "data/resumes/isabel_ali.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/isabel_ali.pdf",
+      "name": "isabel_ali.pdf",
+      "ext": ".pdf",
+      "size_bytes": 32059,
+      "modified": "2026-10-27T09:38:43"
+    },
+    "n_chars": 5593,
+    "n_chunks": 11
+  },
+  "isabel_petrov": {
+    "name": "Isabel Petrov",
+    "headline": "BI TEACHER",
+    "skills": [
+      "Teaching",
+      "Lesson Planning",
+      "Special Education",
+      "Differentiated Instruction",
+      "Classroom Management",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Teaching",
+      "Lesson Planning",
+      "Special Education",
+      "Differentiated Instruction"
+    ],
+    "skill_years": {},
+    "experience_years": 28.2,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Education Administration",
+      "line": "Masters of Arts"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "isabel_petrov",
+    "resume_path": "data/resumes/isabel_petrov.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/isabel_petrov.pdf",
+      "name": "isabel_petrov.pdf",
+      "ext": ".pdf",
+      "size_bytes": 19122,
+      "modified": "2026-10-27T09:39:09"
+    },
+    "n_chars": 3241,
+    "n_chunks": 7
+  },
+  "james_patel": {
+    "name": "James Patel",
+    "headline": "ACCOUNTANT",
+    "skills": [
+      "Microsoft Office",
+      "Accounting",
+      "Accounts Receivable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Budgeting",
+      "Tax",
+      "Payroll",
+      "CPA",
+      "Sales"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Accounting",
+      "Accounts Receivable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Budgeting",
+      "Tax",
+      "Payroll",
+      "CPA",
+      "Sales"
+    ],
+    "skill_years": {},
+    "experience_years": 5.6,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Accounting",
+      "line": "B.S"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "james_patel",
+    "resume_path": "data/resumes/james_patel.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/james_patel.pdf",
+      "name": "james_patel.pdf",
+      "ext": ".pdf",
+      "size_bytes": 19095,
+      "modified": "2026-10-27T09:38:41"
+    },
+    "n_chars": 3473,
+    "n_chunks": 8
+  },
+  "james_smith": {
+    "name": "James Smith",
+    "headline": "SENIOR DIRECTOR OF FINANCE",
+    "skills": [
+      "Data Analysis",
+      "Excel",
+      "Process Improvement",
+      "Project Management",
+      "Employee Relations",
+      "Leadership",
+      "Communication",
+      "Manufacturing",
+      "Auditing",
+      "Compliance",
+      "Account Management",
+      "Recruiting",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Data Analysis",
+      "Excel",
+      "Process Improvement",
+      "Project Management",
+      "Employee Relations",
+      "Leadership",
+      "Communication"
+    ],
+    "skill_years": {},
+    "experience_years": 9.7,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": null,
+      "line": "MBA"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "james_smith",
+    "resume_path": "data/resumes/james_smith.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/james_smith.pdf",
+      "name": "james_smith.pdf",
+      "ext": ".pdf",
+      "size_bytes": 21729,
+      "modified": "2026-10-27T09:38:33"
+    },
+    "n_chars": 5310,
+    "n_chunks": 8
+  },
+  "kenji_clark": {
+    "name": "Kenji Clark",
+    "headline": "SALES ASSOCIATE",
+    "skills": [
+      "CRM",
+      "Sales",
+      "Business Development",
+      "Account Management",
+      "Customer Service",
+      "Negotiation",
+      "Marketing",
+      "Networking",
+      "Financial Analysis",
+      "Budgeting",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "CRM",
+      "Sales",
+      "Business Development",
+      "Account Management",
+      "Customer Service",
+      "Negotiation",
+      "Marketing"
+    ],
+    "skill_years": {},
+    "experience_years": 14.9,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Counseling Psychology Georgia",
+      "line": "Master of Science , Counseling Psychology"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "kenji_clark",
+    "resume_path": "data/resumes/kenji_clark.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/kenji_clark.pdf",
+      "name": "kenji_clark.pdf",
+      "ext": ".pdf",
+      "size_bytes": 24689,
+      "modified": "2026-10-27T09:38:51"
+    },
+    "n_chars": 5697,
+    "n_chunks": 9
+  },
+  "kenji_pereira": {
+    "name": "Kenji Pereira",
+    "headline": "LIGHTING DESIGNER",
+    "skills": [
+      "AutoCAD",
+      "Mechanical Engineering",
+      "Manufacturing",
+      "Project Management",
+      "Retail",
+      "Leadership",
+      "Adobe InDesign",
+      "3D Modeling",
+      "Interior Design",
+      "Budgeting",
+      "Compliance"
+    ],
+    "skills_primary": [
+      "AutoCAD",
+      "Mechanical Engineering",
+      "Manufacturing",
+      "Project Management",
+      "Retail",
+      "Leadership",
+      "Adobe InDesign",
+      "3D Modeling",
+      "Interior Design"
+    ],
+    "skill_years": {},
+    "experience_years": 32.2,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Interior Architecture",
+      "line": "Bachelor of Fine Arts"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "kenji_pereira",
+    "resume_path": "data/resumes/kenji_pereira.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/kenji_pereira.pdf",
+      "name": "kenji_pereira.pdf",
+      "ext": ".pdf",
+      "size_bytes": 24132,
+      "modified": "2026-10-27T09:38:57"
+    },
+    "n_chars": 5905,
+    "n_chunks": 9
+  },
+  "kwame_ferreira": {
+    "name": "Kwame Ferreira",
+    "headline": "HOSPITAL & PHYSICIAN BILLING SPECIALIST",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Accounts Receivable",
+      "Auditing",
+      "QuickBooks",
+      "Banking",
+      "Compliance",
+      "Marketing",
+      "Communication",
+      "Graphic Design",
+      "Patient Care",
+      "EMR/EHR",
+      "HIPAA",
+      "Medical Billing",
+      "Manufacturing"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Accounts Receivable",
+      "Auditing",
+      "QuickBooks",
+      "Banking",
+      "Compliance",
+      "Marketing",
+      "Communication",
+      "Graphic Design",
+      "Patient Care",
+      "EMR/EHR",
+      "HIPAA",
+      "Medical Billing"
+    ],
+    "skill_years": {},
+    "experience_years": 5.0,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Business Management",
+      "line": "Bachelor of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "kwame_ferreira",
+    "resume_path": "data/resumes/kwame_ferreira.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/kwame_ferreira.pdf",
+      "name": "kwame_ferreira.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23409,
+      "modified": "2026-10-27T09:39:04"
+    },
+    "n_chars": 4956,
+    "n_chunks": 8
+  },
+  "kwame_rossi": {
+    "name": "Kwame Rossi",
+    "headline": "SALES",
+    "skills": [
+      "Payroll",
+      "Sales",
+      "Customer Service",
+      "Negotiation",
+      "Retail",
+      "Inventory Management",
+      "Recruiting",
+      "Employee Relations",
+      "Training & Development",
+      "Leadership",
+      "Manufacturing",
+      "Process Improvement",
+      "Reconciliation",
+      "Banking",
+      "Onboarding"
+    ],
+    "skills_primary": [
+      "Payroll",
+      "Sales",
+      "Customer Service",
+      "Negotiation",
+      "Retail",
+      "Inventory Management",
+      "Recruiting",
+      "Employee Relations",
+      "Training & Development",
+      "Leadership"
+    ],
+    "skill_years": {
+      "Sales": 17,
+      "Retail": 4
+    },
+    "experience_years": 19.8,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Religion /Psychology",
+      "line": "Bachelor of Arts"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "kwame_rossi",
+    "resume_path": "data/resumes/kwame_rossi.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/kwame_rossi.pdf",
+      "name": "kwame_rossi.pdf",
+      "ext": ".pdf",
+      "size_bytes": 28306,
+      "modified": "2026-10-27T09:38:52"
+    },
+    "n_chars": 6976,
+    "n_chunks": 10
+  },
+  "kwame_saleh": {
+    "name": "Kwame Saleh",
+    "headline": "SALES",
+    "skills": [
+      "Microsoft Office",
+      "Project Management",
+      "Payroll",
+      "Sales",
+      "Business Development",
+      "Customer Service",
+      "Negotiation",
+      "Marketing",
+      "Leadership",
+      "Scheduling",
+      "Student Assessment",
+      "Banking",
+      "Compliance"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Project Management",
+      "Payroll",
+      "Sales",
+      "Business Development",
+      "Customer Service",
+      "Negotiation",
+      "Marketing",
+      "Leadership",
+      "Scheduling",
+      "Student Assessment"
+    ],
+    "skill_years": {},
+    "experience_years": 23.3,
+    "education": {
+      "level": 1,
+      "degree": "Diploma/Certificate",
+      "field": "General Studies Automotive Technology",
+      "line": "High School Diploma"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "kwame_saleh",
+    "resume_path": "data/resumes/kwame_saleh.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/kwame_saleh.pdf",
+      "name": "kwame_saleh.pdf",
+      "ext": ".pdf",
+      "size_bytes": 24744,
+      "modified": "2026-10-27T09:38:50"
+    },
+    "n_chars": 6363,
+    "n_chunks": 10
+  },
+  "leila_aziz": {
+    "name": "Leila Aziz",
+    "headline": "CLINICAL ENGINEERING MANAGER",
+    "skills": [
+      "SQL",
+      "Linux",
+      "Networking",
+      "Excel",
+      "Process Improvement",
+      "Compliance",
+      "Customer Service",
+      "Negotiation",
+      "Leadership",
+      "Project Management",
+      "Budgeting",
+      "Risk Management",
+      "Sales",
+      "Inventory Management",
+      "Recruiting",
+      "Patient Care"
+    ],
+    "skills_primary": [
+      "SQL",
+      "Linux",
+      "Networking",
+      "Excel",
+      "Process Improvement",
+      "Compliance",
+      "Customer Service",
+      "Negotiation",
+      "Leadership"
+    ],
+    "skill_years": {
+      "Sales": 20
+    },
+    "experience_years": 36.0,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": "Electronic Technology",
+      "line": "AAS"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "leila_aziz",
+    "resume_path": "data/resumes/leila_aziz.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/leila_aziz.pdf",
+      "name": "leila_aziz.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22597,
+      "modified": "2026-10-27T09:38:19"
+    },
+    "n_chars": 6602,
+    "n_chunks": 8
+  },
+  "leila_shah": {
+    "name": "Leila Shah",
+    "headline": "ACCOUNTANT",
+    "skills": [
+      "Networking",
+      "SAP",
+      "Oracle",
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Financial Analysis",
+      "Budgeting",
+      "Auditing",
+      "Treasury",
+      "Compliance",
+      "Customer Service",
+      "Negotiation",
+      "Retail",
+      "Marketing",
+      "HRIS",
+      "Leadership",
+      "General Ledger"
+    ],
+    "skills_primary": [
+      "Networking",
+      "SAP",
+      "Oracle",
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Financial Analysis",
+      "Budgeting",
+      "Auditing",
+      "Treasury",
+      "Compliance",
+      "Customer Service",
+      "Negotiation",
+      "Retail",
+      "Marketing",
+      "HRIS",
+      "Leadership"
+    ],
+    "skill_years": {
+      "Accounting": 20,
+      "Budgeting": 5
+    },
+    "experience_years": 13.0,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Business Administration City",
+      "line": "Masters of Business Administration"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "leila_shah",
+    "resume_path": "data/resumes/leila_shah.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/leila_shah.pdf",
+      "name": "leila_shah.pdf",
+      "ext": ".pdf",
+      "size_bytes": 21983,
+      "modified": "2026-10-27T09:38:44"
+    },
+    "n_chars": 6719,
+    "n_chunks": 10
+  },
+  "leo_nasser": {
+    "name": "Leo Nasser",
+    "headline": "INTERIOR DESIGNER",
+    "skills": [
+      "Excel",
+      "Budgeting",
+      "Sales",
+      "Interior Design",
+      "Retail"
+    ],
+    "skills_primary": [
+      "Excel",
+      "Budgeting",
+      "Sales",
+      "Interior Design"
+    ],
+    "skill_years": {},
+    "experience_years": 6.7,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": "Interior Design",
+      "line": "Associate of Arts"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "leo_nasser",
+    "resume_path": "data/resumes/leo_nasser.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/leo_nasser.pdf",
+      "name": "leo_nasser.pdf",
+      "ext": ".pdf",
+      "size_bytes": 17001,
+      "modified": "2026-10-27T09:38:55"
+    },
+    "n_chars": 2508,
+    "n_chunks": 5
+  },
+  "leo_sato": {
+    "name": "Leo Sato",
+    "headline": "INDEPENDENT DESIGNER",
+    "skills": [
+      "Salesforce",
+      "Microsoft Office",
+      "AutoCAD",
+      "Budgeting",
+      "Sales",
+      "Customer Service",
+      "Retail",
+      "Leadership",
+      "Communication",
+      "Interior Design"
+    ],
+    "skills_primary": [
+      "Salesforce",
+      "Microsoft Office",
+      "AutoCAD",
+      "Budgeting",
+      "Sales",
+      "Customer Service",
+      "Retail",
+      "Leadership",
+      "Communication",
+      "Interior Design"
+    ],
+    "skill_years": {},
+    "experience_years": 27.0,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Interior Design",
+      "line": "Bachelor of Arts"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "leo_sato",
+    "resume_path": "data/resumes/leo_sato.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/leo_sato.pdf",
+      "name": "leo_sato.pdf",
+      "ext": ".pdf",
+      "size_bytes": 26912,
+      "modified": "2026-10-27T09:38:59"
+    },
+    "n_chars": 6524,
+    "n_chunks": 12
+  },
+  "lina_bello": {
+    "name": "Lina Bello",
+    "headline": "CUSTOMER SERVICE REPRESENTATIVE",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Quality Control",
+      "Budgeting",
+      "Customer Service",
+      "Recruiting",
+      "Employee Relations",
+      "Performance Management",
+      "Leadership"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Quality Control",
+      "Budgeting",
+      "Customer Service",
+      "Recruiting",
+      "Employee Relations",
+      "Performance Management",
+      "Leadership"
+    ],
+    "skill_years": {},
+    "experience_years": 4.6,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": null,
+      "line": "Associate of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "lina_bello",
+    "resume_path": "data/resumes/lina_bello.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/lina_bello.pdf",
+      "name": "lina_bello.pdf",
+      "ext": ".pdf",
+      "size_bytes": 21468,
+      "modified": "2026-10-27T09:38:10"
+    },
+    "n_chars": 4856,
+    "n_chunks": 9
+  },
+  "lina_moreau": {
+    "name": "Lina Moreau",
+    "headline": "SALES ASSOCIATE",
+    "skills": [
+      "Sales",
+      "Inventory Management",
+      "Banking",
+      "Scheduling",
+      "Classroom Management"
+    ],
+    "skills_primary": [
+      "Sales",
+      "Inventory Management"
+    ],
+    "skill_years": {},
+    "experience_years": 6.2,
+    "education": {
+      "level": 1,
+      "degree": "Diploma/Certificate",
+      "field": "Madill High",
+      "line": "High School Diploma"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "lina_moreau",
+    "resume_path": "data/resumes/lina_moreau.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/lina_moreau.pdf",
+      "name": "lina_moreau.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23353,
+      "modified": "2026-10-27T09:38:47"
+    },
+    "n_chars": 4934,
+    "n_chunks": 7
+  },
+  "lucas_pereira": {
+    "name": "Lucas Pereira",
+    "headline": "TEACHER",
+    "skills": [
+      "Excel",
+      "Budgeting",
+      "Payroll",
+      "QuickBooks",
+      "Recruiting",
+      "Leadership",
+      "Communication",
+      "Scheduling",
+      "Teaching",
+      "Lesson Planning",
+      "Compliance",
+      "Classroom Management",
+      "Special Education"
+    ],
+    "skills_primary": [
+      "Excel",
+      "Budgeting",
+      "Payroll",
+      "QuickBooks",
+      "Recruiting",
+      "Leadership",
+      "Communication",
+      "Scheduling",
+      "Teaching",
+      "Lesson Planning"
+    ],
+    "skill_years": {},
+    "experience_years": 21.2,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": null,
+      "line": "Master of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "lucas_pereira",
+    "resume_path": "data/resumes/lucas_pereira.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/lucas_pereira.pdf",
+      "name": "lucas_pereira.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23869,
+      "modified": "2026-10-27T09:39:10"
+    },
+    "n_chars": 5670,
+    "n_chunks": 8
+  },
+  "lucas_popescu": {
+    "name": "Lucas Popescu",
+    "headline": "FINANCIAL ACCOUNTANT",
+    "skills": [
+      "Oracle",
+      "Microsoft Office",
+      "Excel",
+      "Project Management",
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Budgeting",
+      "Auditing",
+      "Treasury",
+      "Banking",
+      "Compliance",
+      "Risk Management",
+      "Sales",
+      "Leadership",
+      "Communication",
+      "Networking",
+      "Marketing"
+    ],
+    "skills_primary": [
+      "Oracle",
+      "Microsoft Office",
+      "Excel",
+      "Project Management",
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Budgeting",
+      "Auditing",
+      "Treasury",
+      "Banking",
+      "Compliance",
+      "Risk Management",
+      "Sales",
+      "Leadership",
+      "Communication"
+    ],
+    "skill_years": {
+      "Leadership": 8
+    },
+    "experience_years": 21.2,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": null,
+      "line": "Bachelor"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "lucas_popescu",
+    "resume_path": "data/resumes/lucas_popescu.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/lucas_popescu.pdf",
+      "name": "lucas_popescu.pdf",
+      "ext": ".pdf",
+      "size_bytes": 29321,
+      "modified": "2026-10-27T09:38:43"
+    },
+    "n_chars": 8199,
+    "n_chunks": 10
+  },
+  "lucas_rahman": {
+    "name": "Lucas Rahman",
+    "headline": "HR SPECIALIST",
+    "skills": [
+      "Payroll",
+      "Customer Service",
+      "Recruiting",
+      "Onboarding",
+      "Employee Relations",
+      "Benefits Administration",
+      "HRIS",
+      "Communication",
+      "Process Improvement",
+      "Reconciliation",
+      "Budgeting",
+      "Banking",
+      "Teaching"
+    ],
+    "skills_primary": [
+      "Payroll",
+      "Customer Service",
+      "Recruiting",
+      "Onboarding",
+      "Employee Relations",
+      "Benefits Administration",
+      "HRIS",
+      "Communication"
+    ],
+    "skill_years": {},
+    "experience_years": 14.5,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Public Administration May",
+      "line": "Masters , Public Administration"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "lucas_rahman",
+    "resume_path": "data/resumes/lucas_rahman.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/lucas_rahman.pdf",
+      "name": "lucas_rahman.pdf",
+      "ext": ".pdf",
+      "size_bytes": 24187,
+      "modified": "2026-10-27T09:38:24"
+    },
+    "n_chars": 6351,
+    "n_chunks": 9
+  },
+  "lucas_tanaka": {
+    "name": "Lucas Tanaka",
+    "headline": "INFORMATION TECHNOLOGY (INTERNSHIP)",
+    "skills": [
+      "Java",
+      "SQL",
+      "C#",
+      "HTML/CSS",
+      "CRM",
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Marketing",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "3D Modeling",
+      "Sales",
+      "Leadership",
+      "Pharmacy",
+      "Nursing"
+    ],
+    "skills_primary": [
+      "Java",
+      "SQL",
+      "C#",
+      "HTML/CSS",
+      "CRM",
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Marketing",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "3D Modeling"
+    ],
+    "skill_years": {},
+    "experience_years": 4.3,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": null,
+      "line": "MBA"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "lucas_tanaka",
+    "resume_path": "data/resumes/lucas_tanaka.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/lucas_tanaka.pdf",
+      "name": "lucas_tanaka.pdf",
+      "ext": ".pdf",
+      "size_bytes": 19736,
+      "modified": "2026-10-27T09:38:09"
+    },
+    "n_chars": 2781,
+    "n_chunks": 5
+  },
+  "marco_haddad": {
+    "name": "Marco Haddad",
+    "headline": "ACCOUNT EXECUTIVE",
+    "skills": [
+      "Process Improvement",
+      "Financial Analysis",
+      "Sales",
+      "Business Development",
+      "Customer Service",
+      "Negotiation",
+      "Retail",
+      "Marketing",
+      "Recruiting",
+      "Employee Relations",
+      "Training & Development",
+      "Leadership",
+      "Communication",
+      "Patient Care",
+      "Scheduling",
+      "Quality Assurance",
+      "CRM",
+      "Accounts Receivable",
+      "Budgeting",
+      "Payroll",
+      "Compliance",
+      "Account Management",
+      "Onboarding",
+      "Performance Management",
+      "Medical Billing",
+      "Nursing"
+    ],
+    "skills_primary": [
+      "Process Improvement",
+      "Financial Analysis",
+      "Sales",
+      "Business Development",
+      "Customer Service",
+      "Negotiation",
+      "Retail",
+      "Marketing",
+      "Recruiting",
+      "Employee Relations",
+      "Training & Development",
+      "Leadership",
+      "Communication",
+      "Patient Care",
+      "Scheduling"
+    ],
+    "skill_years": {},
+    "experience_years": 14.7,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Healthcare Management",
+      "line": "Bachelors of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "marco_haddad",
+    "resume_path": "data/resumes/marco_haddad.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/marco_haddad.pdf",
+      "name": "marco_haddad.pdf",
+      "ext": ".pdf",
+      "size_bytes": 30736,
+      "modified": "2026-10-27T09:39:03"
+    },
+    "n_chars": 12163,
+    "n_chunks": 14
+  },
+  "marco_nasser": {
+    "name": "Marco Nasser",
+    "headline": "FINANCIAL EDITOR ASSISTANT",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Financial Analysis",
+      "Sales",
+      "Marketing",
+      "Accounting",
+      "Reconciliation",
+      "Financial Reporting",
+      "Budgeting",
+      "Banking"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Financial Analysis",
+      "Sales",
+      "Marketing"
+    ],
+    "skill_years": {},
+    "experience_years": 2.4,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Finance",
+      "line": "Master of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "marco_nasser",
+    "resume_path": "data/resumes/marco_nasser.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/marco_nasser.pdf",
+      "name": "marco_nasser.pdf",
+      "ext": ".pdf",
+      "size_bytes": 43314,
+      "modified": "2026-10-27T09:39:15"
+    },
+    "n_chars": 4886,
+    "n_chunks": 8
+  },
+  "marco_silva": {
+    "name": "Marco Silva",
+    "headline": "ENGINEERING SUPERVISOR",
+    "skills": [
+      "Excel",
+      "MATLAB",
+      "Accounting",
+      "Reconciliation",
+      "Financial Reporting",
+      "Budgeting",
+      "QuickBooks",
+      "Treasury",
+      "CPA",
+      "Leadership",
+      "Technical Support",
+      "Accounts Receivable",
+      "General Ledger",
+      "Auditing",
+      "Tax",
+      "Compliance",
+      "Retail",
+      "Training & Development"
+    ],
+    "skills_primary": [
+      "Excel",
+      "MATLAB",
+      "Accounting",
+      "Reconciliation",
+      "Financial Reporting",
+      "Budgeting",
+      "QuickBooks",
+      "Treasury",
+      "CPA",
+      "Leadership"
+    ],
+    "skill_years": {
+      "Accounting": 23
+    },
+    "experience_years": 22.0,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Accounting and Finance",
+      "line": "Master of Science"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "marco_silva",
+    "resume_path": "data/resumes/marco_silva.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/marco_silva.pdf",
+      "name": "marco_silva.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22756,
+      "modified": "2026-10-27T09:38:18"
+    },
+    "n_chars": 5507,
+    "n_chunks": 10
+  },
+  "marco_wilson": {
+    "name": "Marco Wilson",
+    "headline": "ACCOUNTANT",
+    "skills": [
+      "Microsoft Office",
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Customer Service",
+      "Auditing",
+      "Payroll",
+      "Banking",
+      "Compliance",
+      "Sales",
+      "Retail",
+      "Benefits Administration"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Customer Service"
+    ],
+    "skill_years": {},
+    "experience_years": 8.0,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Accounting and Finance",
+      "line": "Bachelor of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "marco_wilson",
+    "resume_path": "data/resumes/marco_wilson.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/marco_wilson.pdf",
+      "name": "marco_wilson.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22846,
+      "modified": "2026-10-27T09:38:44"
+    },
+    "n_chars": 4812,
+    "n_chunks": 8
+  },
+  "maria_popescu": {
+    "name": "Maria Popescu",
+    "headline": "ENGINEER",
+    "skills": [
+      "Networking",
+      "Microsoft Office",
+      "Excel",
+      "Adobe Photoshop",
+      "Compliance",
+      "Inventory Management",
+      "Patient Care"
+    ],
+    "skills_primary": [
+      "Networking",
+      "Microsoft Office",
+      "Excel",
+      "Adobe Photoshop"
+    ],
+    "skill_years": {},
+    "experience_years": 16.0,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": "Graphic Art and Design",
+      "line": "Associate of Arts"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "maria_popescu",
+    "resume_path": "data/resumes/maria_popescu.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/maria_popescu.pdf",
+      "name": "maria_popescu.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22100,
+      "modified": "2026-10-27T09:39:07"
+    },
+    "n_chars": 4918,
+    "n_chunks": 8
+  },
+  "maria_turner": {
+    "name": "Maria Turner",
+    "headline": "ACCOUNTANT",
+    "skills": [
+      "Technical Support",
+      "Microsoft Office",
+      "Excel",
+      "Microsoft Access",
+      "Accounting",
+      "Accounts Payable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Payroll",
+      "QuickBooks",
+      "Banking",
+      "Inventory Management",
+      "Leadership",
+      "Manufacturing",
+      "Process Improvement",
+      "Accounts Receivable"
+    ],
+    "skills_primary": [
+      "Technical Support",
+      "Microsoft Office",
+      "Excel",
+      "Microsoft Access",
+      "Accounting",
+      "Accounts Payable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Payroll",
+      "QuickBooks",
+      "Banking",
+      "Inventory Management",
+      "Leadership"
+    ],
+    "skill_years": {},
+    "experience_years": 10.8,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Business Administration",
+      "line": "Master's"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "maria_turner",
+    "resume_path": "data/resumes/maria_turner.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/maria_turner.pdf",
+      "name": "maria_turner.pdf",
+      "ext": ".pdf",
+      "size_bytes": 19432,
+      "modified": "2026-10-27T09:38:42"
+    },
+    "n_chars": 4082,
+    "n_chunks": 7
+  },
+  "mateo_kim": {
+    "name": "Mateo Kim",
+    "headline": "Rachael Lobdell",
+    "skills": [
+      "Recruiting",
+      "Communication",
+      "Patient Care",
+      "Scheduling",
+      "Student Assessment",
+      "Quality Assurance",
+      "Auditing",
+      "Payroll",
+      "Compliance",
+      "Sales",
+      "Customer Service",
+      "Benefits Administration",
+      "Leadership"
+    ],
+    "skills_primary": [
+      "Recruiting",
+      "Communication",
+      "Patient Care",
+      "Scheduling",
+      "Student Assessment"
+    ],
+    "skill_years": {},
+    "experience_years": 20,
+    "education": {
+      "level": 1,
+      "degree": "Diploma/Certificate",
+      "field": null,
+      "line": "High School Diploma"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "mateo_kim",
+    "resume_path": "data/resumes/mateo_kim.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/mateo_kim.pdf",
+      "name": "mateo_kim.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22163,
+      "modified": "2026-10-27T09:39:06"
+    },
+    "n_chars": 4626,
+    "n_chunks": 7
+  },
+  "mateo_silva": {
+    "name": "Mateo Silva",
+    "headline": "PROFESSIONAL HEALTHCARE REPRESENTATIVE",
+    "skills": [
+      "Sales",
+      "Communication",
+      "Patient Care",
+      "Pharmacy",
+      "Nursing",
+      "Teaching",
+      "Recruiting",
+      "Scheduling"
+    ],
+    "skills_primary": [
+      "Sales",
+      "Communication",
+      "Patient Care",
+      "Pharmacy",
+      "Nursing",
+      "Teaching"
+    ],
+    "skill_years": {
+      "Sales": 15,
+      "Pharmacy": 15
+    },
+    "experience_years": 17.4,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Nursing",
+      "line": "Bachelors of Science"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "mateo_silva",
+    "resume_path": "data/resumes/mateo_silva.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/mateo_silva.pdf",
+      "name": "mateo_silva.pdf",
+      "ext": ".pdf",
+      "size_bytes": 34576,
+      "modified": "2026-10-27T09:39:01"
+    },
+    "n_chars": 4828,
+    "n_chunks": 10
+  },
+  "maya_okafor": {
+    "name": "Maya Okafor",
+    "headline": "HR CONSULTING",
+    "skills": [
+      "Data Analysis",
+      "Networking",
+      "SAP",
+      "Microsoft Office",
+      "Excel",
+      "Budgeting",
+      "Payroll",
+      "Negotiation",
+      "Recruiting",
+      "Onboarding",
+      "Employee Relations",
+      "Benefits Administration",
+      "HRIS",
+      "Performance Management",
+      "Leadership",
+      "Compliance",
+      "Marketing",
+      "Training & Development",
+      "Differentiated Instruction"
+    ],
+    "skills_primary": [
+      "Data Analysis",
+      "Networking",
+      "SAP",
+      "Microsoft Office",
+      "Excel",
+      "Budgeting",
+      "Payroll",
+      "Negotiation",
+      "Recruiting",
+      "Onboarding",
+      "Employee Relations",
+      "Benefits Administration",
+      "HRIS",
+      "Performance Management",
+      "Leadership"
+    ],
+    "skill_years": {},
+    "experience_years": 7,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Human Resource Management",
+      "line": "MBA"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "maya_okafor",
+    "resume_path": "data/resumes/maya_okafor.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/maya_okafor.pdf",
+      "name": "maya_okafor.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23129,
+      "modified": "2026-10-27T09:38:26"
+    },
+    "n_chars": 6365,
+    "n_chunks": 10
+  },
+  "mia_rahman": {
+    "name": "Mia Rahman",
+    "headline": "ACCOUNT EXECUTIVE",
+    "skills": [
+      "Virtualization",
+      "Microsoft Office",
+      "Budgeting",
+      "Banking",
+      "Sales",
+      "Business Development",
+      "Negotiation",
+      "Marketing",
+      "Leadership",
+      "Account Management"
+    ],
+    "skills_primary": [
+      "Virtualization",
+      "Microsoft Office",
+      "Budgeting",
+      "Banking",
+      "Sales",
+      "Business Development",
+      "Negotiation",
+      "Marketing",
+      "Leadership"
+    ],
+    "skill_years": {},
+    "experience_years": 8.1,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Sociology Sociology and Psychology",
+      "line": "Bachelor's Degree"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "mia_rahman",
+    "resume_path": "data/resumes/mia_rahman.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/mia_rahman.pdf",
+      "name": "mia_rahman.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22308,
+      "modified": "2026-10-27T09:39:21"
+    },
+    "n_chars": 5080,
+    "n_chunks": 10
+  },
+  "nadia_novak": {
+    "name": "Nadia Novak",
+    "headline": "HR BUSINESS PARTNER",
+    "skills": [
+      "Employee Relations",
+      "Benefits Administration",
+      "Performance Management",
+      "Leadership",
+      "Communication",
+      "Oracle",
+      "Excel",
+      "Accounting",
+      "Budgeting",
+      "Payroll",
+      "Compliance",
+      "Marketing",
+      "Recruiting",
+      "HRIS",
+      "Labor Law",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Employee Relations",
+      "Benefits Administration",
+      "Performance Management",
+      "Leadership",
+      "Communication"
+    ],
+    "skill_years": {},
+    "experience_years": 9.5,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Organizational Management",
+      "line": "Bachelor of Arts"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "nadia_novak",
+    "resume_path": "data/resumes/nadia_novak.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/nadia_novak.pdf",
+      "name": "nadia_novak.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22735,
+      "modified": "2026-10-27T09:38:28"
+    },
+    "n_chars": 5839,
+    "n_chunks": 9
+  },
+  "noah_okafor": {
+    "name": "Noah Okafor",
+    "headline": "FINANCE MANAGER",
+    "skills": [
+      "Excel",
+      "Process Improvement",
+      "Accounting",
+      "Accounts Payable",
+      "Accounts Receivable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Auditing",
+      "Tax",
+      "Payroll",
+      "QuickBooks",
+      "Treasury",
+      "Banking",
+      "Compliance",
+      "Onboarding"
+    ],
+    "skills_primary": [
+      "Excel",
+      "Process Improvement",
+      "Accounting",
+      "Accounts Payable",
+      "Accounts Receivable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Auditing",
+      "Tax",
+      "Payroll",
+      "QuickBooks",
+      "Treasury",
+      "Banking"
+    ],
+    "skill_years": {},
+    "experience_years": 12.2,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Business Administration",
+      "line": "Bachelor's Degree"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "noah_okafor",
+    "resume_path": "data/resumes/noah_okafor.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/noah_okafor.pdf",
+      "name": "noah_okafor.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22354,
+      "modified": "2026-10-27T09:38:36"
+    },
+    "n_chars": 5030,
+    "n_chunks": 7
+  },
+  "noah_pereira": {
+    "name": "Noah Pereira",
+    "headline": "HR EXECUTIVE",
+    "skills": [
+      "Java",
+      "SQL",
+      "C++",
+      "Microsoft Office",
+      "Project Management",
+      "Compliance",
+      "Recruiting",
+      "Benefits Administration",
+      "SAP",
+      "Manufacturing",
+      "Payroll",
+      "Onboarding",
+      "Employee Relations",
+      "Training & Development",
+      "Scheduling",
+      "Teaching"
+    ],
+    "skills_primary": [
+      "Java",
+      "SQL",
+      "C++",
+      "Microsoft Office",
+      "Project Management",
+      "Compliance",
+      "Recruiting",
+      "Benefits Administration"
+    ],
+    "skill_years": {},
+    "experience_years": 1.9,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Human Resource",
+      "line": "MBA"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "noah_pereira",
+    "resume_path": "data/resumes/noah_pereira.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/noah_pereira.pdf",
+      "name": "noah_pereira.pdf",
+      "ext": ".pdf",
+      "size_bytes": 24209,
+      "modified": "2026-10-27T09:38:31"
+    },
+    "n_chars": 5534,
+    "n_chunks": 9
+  },
+  "noah_saleh": {
+    "name": "Noah Saleh",
+    "headline": "LEAD INTERACTION DESIGNER",
+    "skills": [
+      "SQL",
+      "HTML/CSS",
+      "Quality Assurance",
+      "Agile",
+      "Project Management",
+      "UI/UX Design",
+      "3D Modeling",
+      "EMR/EHR",
+      "HIPAA",
+      "Data Analysis",
+      "Quality Control",
+      "Manufacturing",
+      "Compliance",
+      "Sales",
+      "Customer Service",
+      "Retail",
+      "Marketing",
+      "Recruiting",
+      "Benefits Administration",
+      "Adobe Photoshop",
+      "Patient Care"
+    ],
+    "skills_primary": [
+      "SQL",
+      "HTML/CSS",
+      "Quality Assurance",
+      "Agile",
+      "Project Management",
+      "UI/UX Design",
+      "3D Modeling",
+      "EMR/EHR",
+      "HIPAA"
+    ],
+    "skill_years": {},
+    "experience_years": 19.2,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Cognitive Science",
+      "line": "B.S. Degree"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "noah_saleh",
+    "resume_path": "data/resumes/noah_saleh.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/noah_saleh.pdf",
+      "name": "noah_saleh.pdf",
+      "ext": ".pdf",
+      "size_bytes": 38880,
+      "modified": "2026-10-27T09:38:56"
+    },
+    "n_chars": 15535,
+    "n_chunks": 20
+  },
+  "olivia_rossi": {
+    "name": "Olivia Rossi",
+    "headline": "TEACHER",
+    "skills": [
+      "Quality Control",
+      "Teaching",
+      "Lesson Planning",
+      "Risk Management",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Quality Control",
+      "Teaching",
+      "Lesson Planning"
+    ],
+    "skill_years": {},
+    "experience_years": 19.0,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": null,
+      "line": "Master en Science menthion Microbiology University Austral of Chile, 2008"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "olivia_rossi",
+    "resume_path": "data/resumes/olivia_rossi.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/olivia_rossi.pdf",
+      "name": "olivia_rossi.pdf",
+      "ext": ".pdf",
+      "size_bytes": 32928,
+      "modified": "2026-10-27T09:39:12"
+    },
+    "n_chars": 5922,
+    "n_chunks": 10
+  },
+  "omar_clark": {
+    "name": "Omar Clark",
+    "headline": "SENIOR FINANCE ASSISTANT",
+    "skills": [
+      "Oracle",
+      "Excel",
+      "Financial Reporting",
+      "HRIS",
+      "Accounting",
+      "Accounts Receivable",
+      "General Ledger",
+      "Reconciliation",
+      "Banking",
+      "Compliance",
+      "Customer Service",
+      "Leadership"
+    ],
+    "skills_primary": [
+      "Oracle",
+      "Excel",
+      "Financial Reporting",
+      "HRIS"
+    ],
+    "skill_years": {
+      "Excel": 4,
+      "Accounting": 1
+    },
+    "experience_years": 12.7,
+    "education": {
+      "level": 1,
+      "degree": "Diploma/Certificate",
+      "field": "Bloomington High",
+      "line": "High School Diploma"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "omar_clark",
+    "resume_path": "data/resumes/omar_clark.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/omar_clark.pdf",
+      "name": "omar_clark.pdf",
+      "ext": ".pdf",
+      "size_bytes": 32857,
+      "modified": "2026-10-27T09:38:36"
+    },
+    "n_chars": 5267,
+    "n_chunks": 8
+  },
+  "omar_novak": {
+    "name": "Omar Novak",
+    "headline": "INFORMATION TECHNOLOGY SPECIALIST",
+    "skills": [
+      "Technical Support",
+      "Microsoft Office",
+      "Excel",
+      "Customer Service",
+      "Leadership",
+      "Communication",
+      "Patient Care",
+      "Student Assessment",
+      "Cloud",
+      "Project Management"
+    ],
+    "skills_primary": [
+      "Technical Support",
+      "Microsoft Office",
+      "Excel",
+      "Customer Service",
+      "Leadership",
+      "Communication",
+      "Patient Care",
+      "Student Assessment"
+    ],
+    "skill_years": {
+      "Communication": 10
+    },
+    "experience_years": 11.2,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": null,
+      "line": "Bachelors of College of Business Management"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "omar_novak",
+    "resume_path": "data/resumes/omar_novak.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/omar_novak.pdf",
+      "name": "omar_novak.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23820,
+      "modified": "2026-10-27T09:38:13"
+    },
+    "n_chars": 7354,
+    "n_chunks": 12
+  },
+  "omar_pereira": {
+    "name": "Omar Pereira",
+    "headline": "ENGINEERING TECHNICIAN II",
+    "skills": [
+      "Technical Support",
+      "Microsoft Office",
+      "Excel",
+      "Lean Six Sigma",
+      "Project Management",
+      "Inventory Management",
+      "Recruiting",
+      "Leadership",
+      "Patient Care",
+      "Quality Control",
+      "Manufacturing",
+      "Compliance",
+      "Sales",
+      "Onboarding",
+      "Scheduling"
+    ],
+    "skills_primary": [
+      "Technical Support",
+      "Microsoft Office",
+      "Excel",
+      "Lean Six Sigma",
+      "Project Management",
+      "Inventory Management",
+      "Recruiting",
+      "Leadership",
+      "Patient Care"
+    ],
+    "skill_years": {},
+    "experience_years": 24.9,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Engineering Managment",
+      "line": "Bachelor of Science"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "omar_pereira",
+    "resume_path": "data/resumes/omar_pereira.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/omar_pereira.pdf",
+      "name": "omar_pereira.pdf",
+      "ext": ".pdf",
+      "size_bytes": 26113,
+      "modified": "2026-10-27T09:38:21"
+    },
+    "n_chars": 6117,
+    "n_chunks": 10
+  },
+  "omar_wang": {
+    "name": "Omar Wang",
+    "headline": "HR MANAGER",
+    "skills": [
+      "SharePoint",
+      "Microsoft Office",
+      "Project Management",
+      "Compliance",
+      "Onboarding",
+      "Employee Relations",
+      "Benefits Administration",
+      "HRIS",
+      "Performance Management",
+      "Training & Development",
+      "Labor Law",
+      "Leadership",
+      "Adobe InDesign",
+      "Web Design",
+      "Scheduling",
+      "Teaching",
+      "Customer Service",
+      "Recruiting"
+    ],
+    "skills_primary": [
+      "SharePoint",
+      "Microsoft Office",
+      "Project Management",
+      "Compliance",
+      "Onboarding",
+      "Employee Relations",
+      "Benefits Administration",
+      "HRIS",
+      "Performance Management",
+      "Training & Development",
+      "Labor Law",
+      "Leadership",
+      "Adobe InDesign",
+      "Web Design",
+      "Scheduling",
+      "Teaching"
+    ],
+    "skill_years": {},
+    "experience_years": 15.0,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Sociology",
+      "line": "Bachelor of Science (BS)"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "omar_wang",
+    "resume_path": "data/resumes/omar_wang.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/omar_wang.pdf",
+      "name": "omar_wang.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22718,
+      "modified": "2026-10-27T09:38:23"
+    },
+    "n_chars": 5043,
+    "n_chunks": 9
+  },
+  "pavel_khan": {
+    "name": "Pavel Khan",
+    "headline": "BANKING BOOT CAMP PARTICIPANT",
+    "skills": [
+      "Excel",
+      "Banking",
+      "Leadership",
+      "CPR/BLS"
+    ],
+    "skills_primary": [
+      "Excel"
+    ],
+    "skill_years": {},
+    "experience_years": 4.0,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Economics Finance",
+      "line": "Bachelor of Arts"
+    },
+    "sections": [
+      "certifications",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "pavel_khan",
+    "resume_path": "data/resumes/pavel_khan.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/pavel_khan.pdf",
+      "name": "pavel_khan.pdf",
+      "ext": ".pdf",
+      "size_bytes": 15962,
+      "modified": "2026-10-27T09:39:20"
+    },
+    "n_chars": 1598,
+    "n_chunks": 6
+  },
+  "pavel_miller": {
+    "name": "Pavel Miller",
+    "headline": "SENIOR ACCOUNTANT",
+    "skills": [
+      "SAP",
+      "Oracle",
+      "Microsoft Office",
+      "Accounting",
+      "Accounts Payable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Budgeting",
+      "Tax",
+      "Payroll",
+      "QuickBooks",
+      "Treasury",
+      "CPA",
+      "Sales",
+      "HRIS",
+      "Communication",
+      "Auditing",
+      "Leadership"
+    ],
+    "skills_primary": [
+      "SAP",
+      "Oracle",
+      "Microsoft Office",
+      "Accounting",
+      "Accounts Payable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Budgeting",
+      "Tax",
+      "Payroll",
+      "QuickBooks",
+      "Treasury",
+      "CPA",
+      "Sales",
+      "HRIS",
+      "Communication"
+    ],
+    "skill_years": {
+      "Accounting": 11
+    },
+    "experience_years": 8.0,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": null,
+      "line": "Master of Accounting & Financial Management"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "pavel_miller",
+    "resume_path": "data/resumes/pavel_miller.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/pavel_miller.pdf",
+      "name": "pavel_miller.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22729,
+      "modified": "2026-10-27T09:38:40"
+    },
+    "n_chars": 4893,
+    "n_chunks": 8
+  },
+  "pavel_okafor": {
+    "name": "Pavel Okafor",
+    "headline": "FINANCE ASSISTANT",
+    "skills": [
+      "SAP",
+      "Excel",
+      "Project Management",
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Tax",
+      "Treasury",
+      "Banking",
+      "Retail",
+      "Leadership",
+      "Auditing",
+      "Payroll",
+      "Sales"
+    ],
+    "skills_primary": [
+      "SAP",
+      "Excel",
+      "Project Management",
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Tax",
+      "Treasury",
+      "Banking",
+      "Retail",
+      "Leadership"
+    ],
+    "skill_years": {
+      "Auditing": 3
+    },
+    "experience_years": 8.3,
+    "education": {
+      "level": 1,
+      "degree": "Diploma/Certificate",
+      "field": "Internal Auditing",
+      "line": "National Diploma"
+    },
+    "sections": [
+      "accomplishments",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "pavel_okafor",
+    "resume_path": "data/resumes/pavel_okafor.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/pavel_okafor.pdf",
+      "name": "pavel_okafor.pdf",
+      "ext": ".pdf",
+      "size_bytes": 31189,
+      "modified": "2026-10-27T09:38:35"
+    },
+    "n_chars": 6502,
+    "n_chunks": 9
+  },
+  "pavel_popescu": {
+    "name": "Pavel Popescu",
+    "headline": "FINANCIAL INSTITUTIONS EXAMINER",
+    "skills": [
+      "Accounting",
+      "Accounts Payable",
+      "Accounts Receivable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Treasury",
+      "Compliance",
+      "Risk Management",
+      "Student Assessment",
+      "Data Analysis",
+      "Cybersecurity",
+      "Technical Support",
+      "Auditing",
+      "Tax",
+      "Banking",
+      "Recruiting"
+    ],
+    "skills_primary": [
+      "Accounting",
+      "Accounts Payable",
+      "Accounts Receivable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Treasury",
+      "Compliance",
+      "Risk Management",
+      "Student Assessment"
+    ],
+    "skill_years": {},
+    "experience_years": 10.5,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Accounting and Financial Management December",
+      "line": "Master of Science , Accounting and Financial Management"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "pavel_popescu",
+    "resume_path": "data/resumes/pavel_popescu.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/pavel_popescu.pdf",
+      "name": "pavel_popescu.pdf",
+      "ext": ".pdf",
+      "size_bytes": 24703,
+      "modified": "2026-10-27T09:39:19"
+    },
+    "n_chars": 6662,
+    "n_chunks": 11
+  },
+  "priya_aziz": {
+    "name": "Priya Aziz",
+    "headline": "TEACHER",
+    "skills": [
+      "Marketing",
+      "Training & Development",
+      "Teaching",
+      "Lesson Planning",
+      "Classroom Management",
+      "Budgeting",
+      "Leadership",
+      "Communication",
+      "Special Education"
+    ],
+    "skills_primary": [
+      "Marketing",
+      "Training & Development",
+      "Teaching",
+      "Lesson Planning",
+      "Classroom Management"
+    ],
+    "skill_years": {},
+    "experience_years": 6.2,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Criminal Justice",
+      "line": "Bachelor of Arts"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "priya_aziz",
+    "resume_path": "data/resumes/priya_aziz.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/priya_aziz.pdf",
+      "name": "priya_aziz.pdf",
+      "ext": ".pdf",
+      "size_bytes": 25148,
+      "modified": "2026-10-27T09:39:08"
+    },
+    "n_chars": 7179,
+    "n_chunks": 11
+  },
+  "priya_ferreira": {
+    "name": "Priya Ferreira",
+    "headline": "SALES & TRADING INTERN",
+    "skills": [
+      "Process Improvement",
+      "Accounting",
+      "Financial Analysis",
+      "Banking",
+      "Sales",
+      "Account Management",
+      "Marketing",
+      "Leadership"
+    ],
+    "skills_primary": [
+      "Process Improvement",
+      "Accounting",
+      "Financial Analysis",
+      "Banking",
+      "Sales",
+      "Account Management",
+      "Marketing"
+    ],
+    "skill_years": {},
+    "experience_years": 5.0,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Economics and Commerce",
+      "line": "Bachelor of Arts"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "priya_ferreira",
+    "resume_path": "data/resumes/priya_ferreira.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/priya_ferreira.pdf",
+      "name": "priya_ferreira.pdf",
+      "ext": ".pdf",
+      "size_bytes": 17955,
+      "modified": "2026-10-27T09:39:15"
+    },
+    "n_chars": 2340,
+    "n_chunks": 5
+  },
+  "priya_moreau": {
+    "name": "Priya Moreau",
+    "headline": "TEACHER",
+    "skills": [
+      "Excel",
+      "CPR/BLS",
+      "Teaching",
+      "Special Education",
+      "Student Assessment",
+      "Differentiated Instruction",
+      "Data Analysis",
+      "Training & Development",
+      "Leadership",
+      "Lesson Planning"
+    ],
+    "skills_primary": [
+      "Excel",
+      "CPR/BLS",
+      "Teaching",
+      "Special Education",
+      "Student Assessment",
+      "Differentiated Instruction"
+    ],
+    "skill_years": {},
+    "experience_years": 18.0,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Math Education",
+      "line": "Master of Arts"
+    },
+    "sections": [
+      "accomplishments",
+      "certifications",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "priya_moreau",
+    "resume_path": "data/resumes/priya_moreau.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/priya_moreau.pdf",
+      "name": "priya_moreau.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23326,
+      "modified": "2026-10-27T09:39:13"
+    },
+    "n_chars": 6420,
+    "n_chunks": 14
+  },
+  "priya_young": {
+    "name": "Priya Young",
+    "headline": "ENGINEERING TECHNICIAN",
+    "skills": [
+      "Java",
+      "C#",
+      "Microsoft Office",
+      "Microsoft Access",
+      "AutoCAD",
+      "Project Management",
+      "Customer Service",
+      "Leadership",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe InDesign",
+      "Adobe Creative Suite",
+      "3D Modeling",
+      "Reconciliation"
+    ],
+    "skills_primary": [
+      "Java",
+      "C#",
+      "Microsoft Office",
+      "Microsoft Access",
+      "AutoCAD",
+      "Project Management",
+      "Customer Service",
+      "Leadership",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe InDesign",
+      "Adobe Creative Suite",
+      "3D Modeling"
+    ],
+    "skill_years": {},
+    "experience_years": 7.1,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Geography Social Sciences",
+      "line": "Bachelor of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "priya_young",
+    "resume_path": "data/resumes/priya_young.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/priya_young.pdf",
+      "name": "priya_young.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23050,
+      "modified": "2026-10-27T09:38:19"
+    },
+    "n_chars": 5888,
+    "n_chunks": 8
+  },
+  "ruth_brown": {
+    "name": "Ruth Brown",
+    "headline": "HR ASSISTANT",
+    "skills": [
+      "Networking",
+      "Microsoft Office",
+      "Excel",
+      "Payroll",
+      "Customer Service",
+      "Inventory Management",
+      "Onboarding",
+      "Employee Relations",
+      "Benefits Administration",
+      "HRIS",
+      "Performance Management",
+      "Labor Law",
+      "Communication",
+      "Scheduling",
+      "Accounting",
+      "Budgeting",
+      "Banking",
+      "Sales",
+      "Account Management",
+      "Negotiation",
+      "Marketing",
+      "Recruiting",
+      "Patient Care"
+    ],
+    "skills_primary": [
+      "Networking",
+      "Microsoft Office",
+      "Excel",
+      "Payroll",
+      "Customer Service",
+      "Inventory Management",
+      "Onboarding",
+      "Employee Relations",
+      "Benefits Administration",
+      "HRIS",
+      "Performance Management",
+      "Labor Law",
+      "Communication",
+      "Scheduling"
+    ],
+    "skill_years": {
+      "Customer Service": 5
+    },
+    "experience_years": 7.8,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Human Resource Management",
+      "line": "Master of Science"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "ruth_brown",
+    "resume_path": "data/resumes/ruth_brown.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ruth_brown.pdf",
+      "name": "ruth_brown.pdf",
+      "ext": ".pdf",
+      "size_bytes": 36965,
+      "modified": "2026-10-27T09:38:25"
+    },
+    "n_chars": 6957,
+    "n_chunks": 11
+  },
+  "ruth_mehta": {
+    "name": "Ruth Mehta",
+    "headline": "FINANCE ASSISTANT",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Tax",
+      "Payroll",
+      "Sales",
+      "Customer Service",
+      "Retail",
+      "Marketing",
+      "Inventory Management",
+      "Banking",
+      "Fashion Design"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Tax",
+      "Payroll",
+      "Sales",
+      "Customer Service",
+      "Retail",
+      "Marketing",
+      "Inventory Management"
+    ],
+    "skill_years": {},
+    "experience_years": 6.7,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": "English",
+      "line": "Associate of Arts"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "ruth_mehta",
+    "resume_path": "data/resumes/ruth_mehta.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ruth_mehta.pdf",
+      "name": "ruth_mehta.pdf",
+      "ext": ".pdf",
+      "size_bytes": 16716,
+      "modified": "2026-10-27T09:38:37"
+    },
+    "n_chars": 3069,
+    "n_chunks": 6
+  },
+  "ruth_novak": {
+    "name": "Ruth Novak",
+    "headline": "LICENSED UNITED HEALTHCARE INSURANCE SALES AGENT",
+    "skills": [
+      "Cloud",
+      "Quality Assurance",
+      "Microsoft Office",
+      "QuickBooks",
+      "Sales",
+      "Customer Service",
+      "Negotiation",
+      "HTML/CSS",
+      "Technical Support",
+      "Salesforce",
+      "Reconciliation",
+      "Banking",
+      "Compliance",
+      "Business Development",
+      "Account Management",
+      "Marketing",
+      "Benefits Administration",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "HIPAA",
+      "Pharmacy"
+    ],
+    "skills_primary": [
+      "Cloud",
+      "Quality Assurance",
+      "Microsoft Office",
+      "QuickBooks",
+      "Sales",
+      "Customer Service",
+      "Negotiation"
+    ],
+    "skill_years": {},
+    "experience_years": 8.7,
+    "education": {
+      "level": 1,
+      "degree": "Diploma/Certificate",
+      "field": null,
+      "line": "operations, goal-setting, public-speaking and computer skills: Banking and Customer Service Training Certificate. Wachov"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "ruth_novak",
+    "resume_path": "data/resumes/ruth_novak.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ruth_novak.pdf",
+      "name": "ruth_novak.pdf",
+      "ext": ".pdf",
+      "size_bytes": 24956,
+      "modified": "2026-10-27T09:39:04"
+    },
+    "n_chars": 7399,
+    "n_chunks": 10
+  },
+  "ruth_petrov": {
+    "name": "Ruth Petrov",
+    "headline": "FINANCE MANAGER",
+    "skills": [
+      "Linux",
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Budgeting",
+      "Auditing",
+      "Tax",
+      "Payroll",
+      "Treasury",
+      "Sales",
+      "Marketing",
+      "Leadership",
+      "Communication"
+    ],
+    "skills_primary": [
+      "Linux",
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Budgeting",
+      "Auditing",
+      "Tax",
+      "Payroll",
+      "Treasury",
+      "Sales",
+      "Marketing"
+    ],
+    "skill_years": {},
+    "experience_years": 30.2,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Commerce",
+      "line": "Bachelor of Commerce"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "ruth_petrov",
+    "resume_path": "data/resumes/ruth_petrov.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/ruth_petrov.pdf",
+      "name": "ruth_petrov.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22759,
+      "modified": "2026-10-27T09:38:38"
+    },
+    "n_chars": 5531,
+    "n_chunks": 7
+  },
+  "samuel_dubois": {
+    "name": "Samuel Dubois",
+    "headline": "ADJUNCT INSTRUCTOR",
+    "skills": [
+      "SQL",
+      "Data Analysis",
+      "Quality Assurance",
+      "Oracle",
+      "Excel",
+      "Microsoft Access",
+      "Quality Control",
+      "Manufacturing",
+      "Process Improvement",
+      "Project Management",
+      "Marketing",
+      "Benefits Administration",
+      "Training & Development",
+      "Leadership",
+      "Scheduling",
+      "Teaching",
+      "Student Assessment",
+      "Negotiation"
+    ],
+    "skills_primary": [
+      "SQL",
+      "Data Analysis",
+      "Quality Assurance",
+      "Oracle",
+      "Excel",
+      "Microsoft Access",
+      "Quality Control",
+      "Manufacturing",
+      "Process Improvement",
+      "Project Management",
+      "Marketing",
+      "Benefits Administration",
+      "Training & Development",
+      "Leadership",
+      "Scheduling",
+      "Teaching",
+      "Student Assessment"
+    ],
+    "skill_years": {},
+    "experience_years": 26.0,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Computer Science",
+      "line": "BS"
+    },
+    "sections": [
+      "certifications",
+      "education",
+      "experience",
+      "profile",
+      "skills"
+    ],
+    "resume_id": "samuel_dubois",
+    "resume_path": "data/resumes/samuel_dubois.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/samuel_dubois.pdf",
+      "name": "samuel_dubois.pdf",
+      "ext": ".pdf",
+      "size_bytes": 26112,
+      "modified": "2026-10-27T09:38:11"
+    },
+    "n_chars": 9333,
+    "n_chunks": 12
+  },
+  "sara_adler": {
+    "name": "Sara Adler",
+    "headline": "BRANCH MANAGER",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Banking",
+      "Financial Analysis",
+      "Auditing",
+      "Compliance",
+      "Risk Management",
+      "Sales",
+      "Customer Service",
+      "Marketing",
+      "Recruiting",
+      "Training & Development",
+      "Leadership",
+      "Scheduling",
+      "Teaching",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Banking"
+    ],
+    "skill_years": {},
+    "experience_years": 2.6,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": null,
+      "line": "Associate of Arts"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "sara_adler",
+    "resume_path": "data/resumes/sara_adler.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/sara_adler.pdf",
+      "name": "sara_adler.pdf",
+      "ext": ".pdf",
+      "size_bytes": 29429,
+      "modified": "2026-10-27T09:39:18"
+    },
+    "n_chars": 11253,
+    "n_chunks": 14
+  },
+  "sara_dubois": {
+    "name": "Sara Dubois",
+    "headline": "STAFF ACCOUNTANT",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Accounts Payable",
+      "Reconciliation",
+      "Financial Reporting",
+      "Budgeting",
+      "Auditing",
+      "Payroll",
+      "QuickBooks",
+      "Risk Management",
+      "Recruiting",
+      "Accounts Receivable",
+      "General Ledger",
+      "Tax",
+      "Compliance"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Accounts Payable",
+      "Reconciliation",
+      "Financial Reporting",
+      "Budgeting",
+      "Auditing",
+      "Payroll",
+      "QuickBooks",
+      "Risk Management",
+      "Recruiting"
+    ],
+    "skill_years": {
+      "Accounting": 10
+    },
+    "experience_years": 10.1,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Accounting",
+      "line": "Bachelor of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "sara_dubois",
+    "resume_path": "data/resumes/sara_dubois.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/sara_dubois.pdf",
+      "name": "sara_dubois.pdf",
+      "ext": ".pdf",
+      "size_bytes": 21674,
+      "modified": "2026-10-27T09:38:39"
+    },
+    "n_chars": 5221,
+    "n_chunks": 10
+  },
+  "sara_patel": {
+    "name": "Sara Patel",
+    "headline": "MANAGER, FINANCE",
+    "skills": [
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Treasury",
+      "Leadership",
+      "Excel",
+      "Accounts Payable",
+      "Auditing",
+      "Payroll",
+      "Banking",
+      "Compliance",
+      "Sales"
+    ],
+    "skills_primary": [
+      "Accounting",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Treasury",
+      "Leadership"
+    ],
+    "skill_years": {
+      "Financial Analysis": 15,
+      "Budgeting": 15
+    },
+    "experience_years": 12.5,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Business Administration Accounting and Finance The Ohio State",
+      "line": "Bachelor of Science , Business Administration Accounting and Finance"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "sara_patel",
+    "resume_path": "data/resumes/sara_patel.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/sara_patel.pdf",
+      "name": "sara_patel.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23007,
+      "modified": "2026-10-27T09:38:34"
+    },
+    "n_chars": 5216,
+    "n_chunks": 9
+  },
+  "sara_petrov": {
+    "name": "Sara Petrov",
+    "headline": "INCLUSION TEACHER",
+    "skills": [
+      "Technical Support",
+      "Teaching",
+      "Lesson Planning",
+      "Classroom Management",
+      "Special Education",
+      "Student Assessment",
+      "Differentiated Instruction",
+      "Compliance",
+      "Early Childhood Education"
+    ],
+    "skills_primary": [
+      "Technical Support",
+      "Teaching",
+      "Lesson Planning",
+      "Classroom Management",
+      "Special Education",
+      "Student Assessment",
+      "Differentiated Instruction"
+    ],
+    "skill_years": {},
+    "experience_years": 21.1,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": null,
+      "line": "Master of Science degree"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "sara_petrov",
+    "resume_path": "data/resumes/sara_petrov.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/sara_petrov.pdf",
+      "name": "sara_petrov.pdf",
+      "ext": ".pdf",
+      "size_bytes": 21430,
+      "modified": "2026-10-27T09:39:14"
+    },
+    "n_chars": 5761,
+    "n_chunks": 10
+  },
+  "sara_tanaka": {
+    "name": "Sara Tanaka",
+    "headline": "INFORMATION TECHNOLOGY COORDINATOR",
+    "skills": [
+      "Technical Support",
+      "Excel",
+      "Customer Service",
+      "Recruiting",
+      "Performance Management",
+      "Leadership",
+      "Communication",
+      "Networking",
+      "Sales",
+      "Scheduling",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Technical Support",
+      "Excel",
+      "Customer Service",
+      "Recruiting",
+      "Performance Management",
+      "Leadership",
+      "Communication"
+    ],
+    "skill_years": {},
+    "experience_years": 9.6,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": null,
+      "line": "Bachelor of Science"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "sara_tanaka",
+    "resume_path": "data/resumes/sara_tanaka.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/sara_tanaka.pdf",
+      "name": "sara_tanaka.pdf",
+      "ext": ".pdf",
+      "size_bytes": 23381,
+      "modified": "2026-10-27T09:38:08"
+    },
+    "n_chars": 5826,
+    "n_chunks": 10
+  },
+  "sofia_petrov": {
+    "name": "Sofia Petrov",
+    "headline": "ASSISTANT MANAGER",
+    "skills": [
+      "Financial Analysis",
+      "Budgeting",
+      "Sales",
+      "Customer Service",
+      "Retail",
+      "Inventory Management",
+      "Recruiting",
+      "Benefits Administration",
+      "Training & Development",
+      "Scheduling",
+      "Manufacturing",
+      "Auditing",
+      "Banking"
+    ],
+    "skills_primary": [
+      "Financial Analysis",
+      "Budgeting",
+      "Sales",
+      "Customer Service",
+      "Retail",
+      "Inventory Management",
+      "Recruiting",
+      "Benefits Administration",
+      "Training & Development",
+      "Scheduling"
+    ],
+    "skill_years": {
+      "Sales": 7,
+      "Customer Service": 7
+    },
+    "experience_years": 6.3,
+    "education": {
+      "level": 2,
+      "degree": "Associate",
+      "field": "LIBERAL ART",
+      "line": "ASSOCIATE"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "sofia_petrov",
+    "resume_path": "data/resumes/sofia_petrov.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/sofia_petrov.pdf",
+      "name": "sofia_petrov.pdf",
+      "ext": ".pdf",
+      "size_bytes": 20335,
+      "modified": "2026-10-27T09:39:16"
+    },
+    "n_chars": 5125,
+    "n_chunks": 8
+  },
+  "sofia_turner": {
+    "name": "Sofia Turner",
+    "headline": "ACCOUNTANT",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Microsoft Access",
+      "Accounting",
+      "Accounts Receivable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Tax",
+      "Payroll",
+      "QuickBooks",
+      "Sales",
+      "HRIS",
+      "Manufacturing"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Microsoft Access",
+      "Accounting",
+      "Accounts Receivable",
+      "General Ledger",
+      "Reconciliation",
+      "Financial Reporting",
+      "Tax",
+      "Payroll",
+      "QuickBooks",
+      "Sales",
+      "HRIS"
+    ],
+    "skill_years": {
+      "Accounting": 10
+    },
+    "experience_years": 10,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": null,
+      "line": "Bachelor's degree"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "sofia_turner",
+    "resume_path": "data/resumes/sofia_turner.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/sofia_turner.pdf",
+      "name": "sofia_turner.pdf",
+      "ext": ".pdf",
+      "size_bytes": 19460,
+      "modified": "2026-10-27T09:38:45"
+    },
+    "n_chars": 3153,
+    "n_chunks": 7
+  },
+  "tariq_turner": {
+    "name": "Tariq Turner",
+    "headline": "ENGINEERING MANAGER",
+    "skills": [
+      "Excel",
+      "Process Improvement",
+      "Project Management",
+      "Communication",
+      "Manufacturing",
+      "Budgeting",
+      "Compliance",
+      "Leadership"
+    ],
+    "skills_primary": [
+      "Excel",
+      "Process Improvement",
+      "Project Management",
+      "Communication"
+    ],
+    "skill_years": {
+      "Excel": 25
+    },
+    "experience_years": 25.4,
+    "education": {
+      "level": 0,
+      "degree": null,
+      "field": null,
+      "line": null
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "tariq_turner",
+    "resume_path": "data/resumes/tariq_turner.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/tariq_turner.pdf",
+      "name": "tariq_turner.pdf",
+      "ext": ".pdf",
+      "size_bytes": 29147,
+      "modified": "2026-10-27T09:38:22"
+    },
+    "n_chars": 3504,
+    "n_chunks": 8
+  },
+  "victor_cohen": {
+    "name": "Victor Cohen",
+    "headline": "HR MANAGER",
+    "skills": [
+      "Project Management",
+      "Budgeting",
+      "Payroll",
+      "Negotiation",
+      "Marketing",
+      "Recruiting",
+      "Employee Relations",
+      "Benefits Administration",
+      "Performance Management",
+      "Leadership",
+      "Graphic Design",
+      "Data Analysis",
+      "Process Improvement",
+      "Compliance",
+      "Sales",
+      "Onboarding",
+      "Teaching"
+    ],
+    "skills_primary": [
+      "Project Management",
+      "Budgeting",
+      "Payroll",
+      "Negotiation",
+      "Marketing",
+      "Recruiting",
+      "Employee Relations",
+      "Benefits Administration",
+      "Performance Management",
+      "Leadership",
+      "Graphic Design"
+    ],
+    "skill_years": {
+      "Leadership": 10
+    },
+    "experience_years": 22.0,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": "Marquette",
+      "line": "Bachelor of Arts"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "profile",
+      "skills"
+    ],
+    "resume_id": "victor_cohen",
+    "resume_path": "data/resumes/victor_cohen.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/victor_cohen.pdf",
+      "name": "victor_cohen.pdf",
+      "ext": ".pdf",
+      "size_bytes": 25709,
+      "modified": "2026-10-27T09:38:24"
+    },
+    "n_chars": 6593,
+    "n_chunks": 8
+  },
+  "victor_moore": {
+    "name": "Victor Moore",
+    "headline": "DATABASE PROGRAMMER/ANALYST (.NET DEVELOPER)",
+    "skills": [
+      "Java",
+      "JavaScript",
+      "SQL",
+      "C#",
+      "C++",
+      "HTML/CSS",
+      "Quality Assurance",
+      "Agile",
+      "Excel",
+      "Manufacturing",
+      "Web Design",
+      "Active Directory",
+      "Budgeting",
+      "UI/UX Design",
+      "Scheduling",
+      "Teaching",
+      "Student Assessment"
+    ],
+    "skills_primary": [
+      "Java",
+      "JavaScript",
+      "SQL",
+      "C#",
+      "C++",
+      "HTML/CSS",
+      "Quality Assurance",
+      "Agile",
+      "Excel",
+      "Manufacturing",
+      "Web Design"
+    ],
+    "skill_years": {},
+    "experience_years": 1.8,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Computer Engineering Present",
+      "line": "Master of Science , Computer Engineering"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "projects",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "victor_moore",
+    "resume_path": "data/resumes/victor_moore.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/victor_moore.pdf",
+      "name": "victor_moore.pdf",
+      "ext": ".pdf",
+      "size_bytes": 35435,
+      "modified": "2026-10-27T09:38:12"
+    },
+    "n_chars": 8273,
+    "n_chunks": 11
+  },
+  "yuki_sato": {
+    "name": "Yuki Sato",
+    "headline": "HISTORY TEACHER",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Payroll",
+      "Sales",
+      "Customer Service",
+      "Communication",
+      "Scheduling",
+      "Teaching",
+      "Recruiting",
+      "Onboarding",
+      "Leadership",
+      "Lesson Planning",
+      "Classroom Management"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Accounting",
+      "Payroll",
+      "Sales",
+      "Customer Service",
+      "Communication",
+      "Scheduling",
+      "Teaching"
+    ],
+    "skill_years": {},
+    "experience_years": 6.4,
+    "education": {
+      "level": 3,
+      "degree": "Bachelor",
+      "field": null,
+      "line": "Bachelor of Science"
+    },
+    "sections": [
+      "accomplishments",
+      "education",
+      "experience",
+      "other",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "yuki_sato",
+    "resume_path": "data/resumes/yuki_sato.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/yuki_sato.pdf",
+      "name": "yuki_sato.pdf",
+      "ext": ".pdf",
+      "size_bytes": 30422,
+      "modified": "2026-10-27T09:39:09"
+    },
+    "n_chars": 9266,
+    "n_chunks": 13
+  },
+  "zara_aziz": {
+    "name": "Zara Aziz",
+    "headline": "SENIOR STUDENT ACCOUNTS OFFICER",
+    "skills": [
+      "Microsoft Office",
+      "Budgeting",
+      "Communication",
+      "Accounts Payable",
+      "Accounts Receivable",
+      "Reconciliation",
+      "Auditing",
+      "Banking",
+      "Compliance",
+      "Sales",
+      "Customer Service",
+      "Benefits Administration",
+      "Leadership"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Budgeting",
+      "Communication"
+    ],
+    "skill_years": {},
+    "experience_years": 7.2,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": null,
+      "line": "Masters of Business Administration"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "zara_aziz",
+    "resume_path": "data/resumes/zara_aziz.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/zara_aziz.pdf",
+      "name": "zara_aziz.pdf",
+      "ext": ".pdf",
+      "size_bytes": 24138,
+      "modified": "2026-10-27T09:39:21"
+    },
+    "n_chars": 5085,
+    "n_chunks": 8
+  },
+  "zara_ferreira": {
+    "name": "Zara Ferreira",
+    "headline": "TEACHER",
+    "skills": [
+      "Microsoft Office",
+      "Excel",
+      "Leadership",
+      "Communication",
+      "Teaching",
+      "Lesson Planning"
+    ],
+    "skills_primary": [
+      "Microsoft Office",
+      "Excel",
+      "Leadership",
+      "Communication",
+      "Teaching",
+      "Lesson Planning"
+    ],
+    "skill_years": {},
+    "experience_years": 8.2,
+    "education": {
+      "level": 4,
+      "degree": "Master",
+      "field": "Educational Leadership",
+      "line": "M.Ed"
+    },
+    "sections": [
+      "education",
+      "experience",
+      "profile",
+      "skills",
+      "summary"
+    ],
+    "resume_id": "zara_ferreira",
+    "resume_path": "data/resumes/zara_ferreira.pdf",
+    "file": {
+      "path": "/Users/ghazikhan/Documents/development/learning/agentic-profile-matching/data/resumes/zara_ferreira.pdf",
+      "name": "zara_ferreira.pdf",
+      "ext": ".pdf",
+      "size_bytes": 21534,
+      "modified": "2026-10-27T09:39:12"
+    },
+    "n_chars": 4695,
+    "n_chunks": 8
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "server_name": "filesystem",
+  "allowed_dirs": {
+    "resumes": "data/resumes",
+    "job_descriptions": "data/job_descriptions",
+    "reports": "reports"
+  },
+  "writable_dirs": ["reports"],
+  "supported_extensions": [".pdf", ".docx", ".txt", ".md"],
+  "max_file_size_mb": 10,
+  "batch_max_files": 200,
+  "batch_max_workers": 8,
+  "watch_max_seconds": 120,
+  "watch_poll_seconds": 1.0
+}

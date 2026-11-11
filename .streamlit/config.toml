@@ -1,0 +1,7 @@
+[server]
+# do not scan installed libraries for changes (avoids noisy transformers/torchvision tracebacks)
+fileWatcherType = "none"
+headless = true
+
+[browser]
+gatherUsageStats = false
